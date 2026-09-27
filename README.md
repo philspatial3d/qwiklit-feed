@@ -4,7 +4,7 @@ This standalone repository publishes only publication metadata: titles, authors,
 
 ## Automatic updates
 
-GitHub Actions runs `refresh.mjs` every six hours and deploys `site/` to GitHub Pages. A publisher failure retains its last available links and is recorded in `sourceStatus`; a run where fewer than half the publishers respond leaves the prior edition online. The workflow also saves each new edition in the repository, so its history is reviewable.
+GitHub Actions runs `refresh.mjs` every six hours and deploys `site/` to GitHub Pages. A publisher failure retains its last available links and is recorded in `sourceStatus`; a run where fewer than 80% of the publishers respond leaves the prior edition online. The workflow also saves each new edition in the repository, so its history is reviewable.
 
 The feed is periodically refreshed, rather than an instantaneous stream. Publisher sites control what their RSS or public API makes available and may block automated requests. The JSON reports the number of successful sources and lists the failures.
 

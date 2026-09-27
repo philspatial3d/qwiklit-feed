@@ -120,7 +120,7 @@ for (let offset = 0; offset < sources.length; offset += concurrency) {
   results.push(...group);
 }
 const successes = results.filter((result) => result.ok).length;
-if (successes < Math.ceil(sources.length / 2)) {
+if (successes < Math.ceil(sources.length * 0.8)) {
   throw new Error(`Only ${successes}/${sources.length} feeds responded; the last published edition was kept.`);
 }
 const seen = new Set();
