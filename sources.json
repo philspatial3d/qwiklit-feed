@@ -224,7 +224,8 @@
       "poetry",
       "essay",
       "interview"
-    ]
+    ],
+    "fallbackUrl": "https://missourireview.com/wp-json/wp/v2/posts?per_page=8&_fields=date,link,title"
   },
   {
     "id": "new-quarterly",
@@ -421,7 +422,8 @@
       "essay",
       "fiction",
       "poetry"
-    ]
+    ],
+    "fallbackUrl": "https://orionmagazine.org/feed/"
   },
   {
     "id": "new-england-review",
@@ -666,7 +668,8 @@
       "essay",
       "review",
       "interview"
-    ]
+    ],
+    "fallbackUrl": "https://granta.com/wp-json/wp/v2/posts?per_page=8&_fields=date,link,title"
   },
   {
     "id": "aaww-the-margins",

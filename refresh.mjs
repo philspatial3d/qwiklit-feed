@@ -70,12 +70,17 @@ function normalize(source, entry, checkedAt) {
   };
 }
 
-function parseEntries(source, body) {
+function parseEntries(source, body, endpoint) {
   if (source.sourceType === 'wordpress_rest') {
     return values(JSON.parse(body).posts).map((post) => ({
       title: post.title, link: post.URL, pubDate: post.date,
       author: post.author?.name,
       category: values(post.categories).map((category) => category?.name ?? category),
+    }));
+  }
+  if (endpoint.includes('/wp-json/wp/v2/posts')) {
+    return values(JSON.parse(body)).map((post) => ({
+      title: post.title?.rendered, link: post.link, pubDate: post.date,
     }));
   }
   const xml = parser.parse(body);
@@ -89,19 +94,27 @@ function parseEntries(source, body) {
 }
 
 async function fetchSource(source, checkedAt) {
-  const endpoint = source.sourceType === 'wordpress_rest' ? source.apiUrl : source.feedUrl;
-  if (!endpoint) throw new Error('No publication feed URL');
-  const response = await fetch(endpoint, {
-    headers: { Accept: 'application/rss+xml, application/atom+xml, application/json;q=0.9', 'User-Agent': 'QwikLitBot/1.0 (+https://qwiklit.com/contact; feed metadata)' },
-    signal: AbortSignal.timeout(timeoutMs),
-  });
-  if (!response.ok) throw new Error(`HTTP ${response.status}`);
-  const items = parseEntries(source, await response.text())
-    .map((entry) => normalize(source, entry, checkedAt))
-    .filter(Boolean)
-    .slice(0, perSourceLimit);
-  if (!items.length) throw new Error('No usable publication entries');
-  return items;
+  const endpoints = [source.sourceType === 'wordpress_rest' ? source.apiUrl : source.feedUrl, source.fallbackUrl].filter(Boolean);
+  if (!endpoints.length) throw new Error('No publication feed URL');
+  let lastError;
+  for (const endpoint of endpoints) {
+    try {
+      const response = await fetch(endpoint, {
+        headers: { Accept: 'application/rss+xml, application/atom+xml, application/json;q=0.9', 'User-Agent': 'QwikLitBot/1.0 (+https://qwiklit.com/contact; feed metadata)' },
+        signal: AbortSignal.timeout(timeoutMs),
+      });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const items = parseEntries(source, await response.text(), endpoint)
+        .map((entry) => normalize(source, entry, checkedAt))
+        .filter(Boolean)
+        .slice(0, perSourceLimit);
+      if (!items.length) throw new Error('No usable publication entries');
+      return items;
+    } catch (error) {
+      lastError = error;
+    }
+  }
+  throw lastError;
 }
 
 const previous = JSON.parse(await readFile(output, 'utf8'));
