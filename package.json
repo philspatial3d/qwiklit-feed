@@ -1,0 +1,11 @@
+{
+  "name": "qwiklit-public-feed",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "refresh": "node refresh.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "5.11.1"
+  }
+}

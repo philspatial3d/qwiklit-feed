@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QwikLit publication feed</title>
+<style>body{font:18px/1.5 system-ui,sans-serif;max-width:42rem;margin:3rem auto;padding:0 1rem;color:#183b2b}a{color:#275c42}code{overflow-wrap:anywhere}</style>
+<h1>QwikLit publication feed</h1>
+<p>Publication titles, dates, authors, and links are refreshed automatically. Read each work at its original publisher.</p>
+<p id="status">Checking the latest published edition…</p>
+<p><a href="./v1/today.json">View the feed JSON</a></p>
+<script>
+fetch('./v1/today.json', {cache:'no-store'}).then(r=>r.json()).then(feed=>{
+  document.querySelector('#status').textContent = `${feed.items.length} links · ${feed.successfulSourceCount}/${feed.totalSourceCount} publications refreshed · ${new Date(feed.refreshedAt).toLocaleString()}`;
+}).catch(()=>{document.querySelector('#status').textContent='The feed could not be read right now.'});
+</script>
+</html>

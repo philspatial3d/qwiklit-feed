@@ -1,0 +1,839 @@
+[
+  {
+    "id": "electric-literature",
+    "name": "Electric Literature",
+    "homepageUrl": "https://electricliterature.com/",
+    "canonicalDomain": "electricliterature.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.electricliterature.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "essay",
+      "review",
+      "literary_news"
+    ]
+  },
+  {
+    "id": "the-offing",
+    "name": "The Offing",
+    "homepageUrl": "https://theoffingmag.com/",
+    "canonicalDomain": "theoffingmag.com",
+    "sourceType": "rss",
+    "feedUrl": "https://theoffingmag.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "strange-horizons",
+    "name": "Strange Horizons",
+    "homepageUrl": "https://www.strangehorizons.com/",
+    "canonicalDomain": "strangehorizons.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.strangehorizons.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "review",
+      "essay"
+    ]
+  },
+  {
+    "id": "lightspeed",
+    "name": "Lightspeed Magazine",
+    "homepageUrl": "https://www.lightspeedmagazine.com/",
+    "canonicalDomain": "lightspeedmagazine.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.lightspeedmagazine.com/rss-2/",
+    "contentTypes": [
+      "fiction",
+      "audio"
+    ]
+  },
+  {
+    "id": "nightmare",
+    "name": "Nightmare Magazine",
+    "homepageUrl": "https://www.nightmare-magazine.com/",
+    "canonicalDomain": "nightmare-magazine.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.nightmare-magazine.com/rss-2/",
+    "contentTypes": [
+      "fiction",
+      "audio"
+    ]
+  },
+  {
+    "id": "clarkesworld",
+    "name": "Clarkesworld Magazine",
+    "homepageUrl": "https://clarkesworldmagazine.com/",
+    "canonicalDomain": "clarkesworldmagazine.com",
+    "sourceType": "rss",
+    "feedUrl": "https://clarkesworldmagazine.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "review",
+      "interview"
+    ]
+  },
+  {
+    "id": "reactor",
+    "name": "Reactor",
+    "homepageUrl": "https://reactormag.com/",
+    "canonicalDomain": "reactormag.com",
+    "sourceType": "rss",
+    "feedUrl": "https://reactormag.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "the-common",
+    "name": "The Common",
+    "homepageUrl": "https://www.thecommononline.org/",
+    "canonicalDomain": "thecommononline.org",
+    "sourceType": "rss",
+    "feedUrl": "https://www.thecommononline.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "guernica",
+    "name": "Guernica",
+    "homepageUrl": "https://www.guernicamag.com/",
+    "canonicalDomain": "guernicamag.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.guernicamag.com/feed/",
+    "contentTypes": [
+      "essay",
+      "fiction",
+      "interview"
+    ]
+  },
+  {
+    "id": "lithub",
+    "name": "Literary Hub",
+    "homepageUrl": "https://lithub.com/",
+    "canonicalDomain": "lithub.com",
+    "sourceType": "rss",
+    "feedUrl": "https://lithub.com/feed/",
+    "contentTypes": [
+      "essay",
+      "review",
+      "literary_news",
+      "interview"
+    ]
+  },
+  {
+    "id": "qwiklit",
+    "name": "QwikLit Editorial",
+    "homepageUrl": "https://qwiklit.com/",
+    "canonicalDomain": "qwiklit.com",
+    "sourceType": "wordpress_rest",
+    "feedUrl": "https://qwiklit.com/feed/",
+    "apiUrl": "https://public-api.wordpress.com/rest/v1.1/sites/qwiklit.com/posts/",
+    "contentTypes": [
+      "essay",
+      "review",
+      "interview",
+      "literary_news"
+    ]
+  },
+  {
+    "id": "kenyon-review",
+    "name": "The Kenyon Review",
+    "homepageUrl": "https://kenyonreview.org/",
+    "canonicalDomain": "kenyonreview.org",
+    "sourceType": "rss",
+    "feedUrl": "https://kenyonreview.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "ploughshares",
+    "name": "Ploughshares",
+    "homepageUrl": "https://pshares.org/",
+    "canonicalDomain": "pshares.org",
+    "sourceType": "rss",
+    "feedUrl": "https://pshares.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "iowa-review",
+    "name": "The Iowa Review",
+    "homepageUrl": "https://iowareview.org/",
+    "canonicalDomain": "iowareview.org",
+    "sourceType": "rss",
+    "feedUrl": "https://iowareview.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "georgia-review",
+    "name": "The Georgia Review",
+    "homepageUrl": "https://www.thegeorgiareview.com/",
+    "canonicalDomain": "thegeorgiareview.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.thegeorgiareview.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "cimarron-review",
+    "name": "Cimarron Review",
+    "homepageUrl": "https://cimarronreview.com/",
+    "canonicalDomain": "cimarronreview.com",
+    "sourceType": "rss",
+    "feedUrl": "https://cimarronreview.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "missouri-review",
+    "name": "The Missouri Review",
+    "homepageUrl": "https://missourireview.com/",
+    "canonicalDomain": "missourireview.com",
+    "sourceType": "rss",
+    "feedUrl": "https://missourireview.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "interview"
+    ]
+  },
+  {
+    "id": "new-quarterly",
+    "name": "The New Quarterly",
+    "homepageUrl": "https://tnq.ca/",
+    "canonicalDomain": "tnq.ca",
+    "sourceType": "rss",
+    "feedUrl": "https://tnq.ca/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "cincinnati-review",
+    "name": "The Cincinnati Review",
+    "homepageUrl": "https://www.cincinnatireview.com/",
+    "canonicalDomain": "cincinnatireview.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.cincinnatireview.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "prism-international",
+    "name": "PRISM international",
+    "homepageUrl": "https://prismmagazine.ca/",
+    "canonicalDomain": "prismmagazine.ca",
+    "sourceType": "rss",
+    "feedUrl": "https://prismmagazine.ca/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "image-journal",
+    "name": "Image",
+    "homepageUrl": "https://imagejournal.org/",
+    "canonicalDomain": "imagejournal.org",
+    "sourceType": "rss",
+    "feedUrl": "https://imagejournal.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "event-magazine",
+    "name": "EVENT",
+    "homepageUrl": "https://www.eventmagazine.ca/",
+    "canonicalDomain": "eventmagazine.ca",
+    "sourceType": "rss",
+    "feedUrl": "https://www.eventmagazine.ca/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "carte-blanche",
+    "name": "carte blanche",
+    "homepageUrl": "https://carte-blanche.org/",
+    "canonicalDomain": "carte-blanche.org",
+    "sourceType": "rss",
+    "feedUrl": "https://carte-blanche.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "interview"
+    ]
+  },
+  {
+    "id": "arc-poetry",
+    "name": "Arc Poetry Magazine",
+    "homepageUrl": "https://arcpoetry.ca/",
+    "canonicalDomain": "arcpoetry.ca",
+    "sourceType": "rss",
+    "feedUrl": "https://arcpoetry.ca/feed/",
+    "contentTypes": [
+      "poetry",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "masters-review",
+    "name": "The Masters Review",
+    "homepageUrl": "https://mastersreview.com/",
+    "canonicalDomain": "mastersreview.com",
+    "sourceType": "rss",
+    "feedUrl": "https://mastersreview.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "fractured-lit",
+    "name": "Fractured Lit",
+    "homepageUrl": "https://fracturedlit.com/",
+    "canonicalDomain": "fracturedlit.com",
+    "sourceType": "rss",
+    "feedUrl": "https://fracturedlit.com/feed/",
+    "contentTypes": [
+      "flash",
+      "fiction"
+    ]
+  },
+  {
+    "id": "smokelong-quarterly",
+    "name": "SmokeLong Quarterly",
+    "homepageUrl": "https://www.smokelong.com/",
+    "canonicalDomain": "smokelong.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.smokelong.com/feed/",
+    "contentTypes": [
+      "flash",
+      "fiction",
+      "essay"
+    ]
+  },
+  {
+    "id": "room-magazine",
+    "name": "Room",
+    "homepageUrl": "https://roommagazine.com/",
+    "canonicalDomain": "roommagazine.com",
+    "sourceType": "rss",
+    "feedUrl": "https://roommagazine.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "bellevue-literary-review",
+    "name": "Bellevue Literary Review",
+    "homepageUrl": "https://blreview.org/",
+    "canonicalDomain": "blreview.org",
+    "sourceType": "rss",
+    "feedUrl": "https://blreview.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "craft-literary",
+    "name": "CRAFT",
+    "homepageUrl": "https://www.craftliterary.com/",
+    "canonicalDomain": "craftliterary.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.craftliterary.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "essay",
+      "interview"
+    ]
+  },
+  {
+    "id": "brevity",
+    "name": "Brevity",
+    "homepageUrl": "https://brevity.wordpress.com/",
+    "canonicalDomain": "brevity.wordpress.com",
+    "sourceType": "rss",
+    "feedUrl": "https://brevity.wordpress.com/feed/",
+    "contentTypes": [
+      "essay",
+      "review",
+      "interview"
+    ]
+  },
+  {
+    "id": "orion-magazine",
+    "name": "Orion",
+    "homepageUrl": "https://orionmagazine.org/",
+    "canonicalDomain": "orionmagazine.org",
+    "sourceType": "rss",
+    "feedUrl": "https://orionmagazine.org/feed/?post_type=article",
+    "contentTypes": [
+      "essay",
+      "fiction",
+      "poetry"
+    ]
+  },
+  {
+    "id": "new-england-review",
+    "name": "New England Review",
+    "homepageUrl": "https://www.nereview.com/",
+    "canonicalDomain": "nereview.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.nereview.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "ninth-letter",
+    "name": "Ninth Letter",
+    "homepageUrl": "https://ninthletter.com/",
+    "canonicalDomain": "ninthletter.com",
+    "sourceType": "rss",
+    "feedUrl": "https://ninthletter.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "harvard-review",
+    "name": "Harvard Review",
+    "homepageUrl": "https://harvardreview.org/",
+    "canonicalDomain": "harvardreview.org",
+    "sourceType": "rss",
+    "feedUrl": "https://www.harvardreview.org/feed/?post_type=content",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "ecotone",
+    "name": "Ecotone",
+    "homepageUrl": "https://ecotonemagazine.org/",
+    "canonicalDomain": "ecotonemagazine.org",
+    "sourceType": "rss",
+    "feedUrl": "https://ecotonemagazine.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "adroit-journal",
+    "name": "The Adroit Journal",
+    "homepageUrl": "https://theadroitjournal.org/",
+    "canonicalDomain": "theadroitjournal.org",
+    "sourceType": "rss",
+    "feedUrl": "https://theadroitjournal.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "hellbender",
+    "name": "Hellbender Literary Journal",
+    "homepageUrl": "https://hellbendermag.com/",
+    "canonicalDomain": "hellbendermag.com",
+    "sourceType": "rss",
+    "feedUrl": "https://hellbendermag.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "poetry-northwest",
+    "name": "Poetry Northwest",
+    "homepageUrl": "https://poetrynw.org/",
+    "canonicalDomain": "poetrynw.org",
+    "sourceType": "rss",
+    "feedUrl": "https://poetrynw.org/feed/",
+    "contentTypes": [
+      "poetry",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "blue-mesa-review",
+    "name": "Blue Mesa Review",
+    "homepageUrl": "https://bmr.unm.edu/",
+    "canonicalDomain": "bmr.unm.edu",
+    "sourceType": "rss",
+    "feedUrl": "https://bmr.unm.edu/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "interview"
+    ]
+  },
+  {
+    "id": "booth",
+    "name": "Booth",
+    "homepageUrl": "https://booth.butler.edu/",
+    "canonicalDomain": "booth.butler.edu",
+    "sourceType": "rss",
+    "feedUrl": "https://booth.butler.edu/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "new-letters",
+    "name": "New Letters",
+    "homepageUrl": "https://www.newletters.org/",
+    "canonicalDomain": "newletters.org",
+    "sourceType": "rss",
+    "feedUrl": "https://www.newletters.org/feed/?post_type=digital_features",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "interview"
+    ]
+  },
+  {
+    "id": "world-literature-today",
+    "name": "World Literature Today",
+    "homepageUrl": "https://www.worldliteraturetoday.org/",
+    "canonicalDomain": "worldliteraturetoday.org",
+    "sourceType": "rss",
+    "feedUrl": "https://www.worldliteraturetoday.org/rss.xml",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review",
+      "interview"
+    ]
+  },
+  {
+    "id": "joyland",
+    "name": "Joyland",
+    "homepageUrl": "https://joylandpublishing.com/",
+    "canonicalDomain": "joylandpublishing.com",
+    "sourceType": "rss",
+    "feedUrl": "https://joylandpublishing.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "essay",
+      "interview"
+    ]
+  },
+  {
+    "id": "paris-review",
+    "name": "The Paris Review",
+    "homepageUrl": "https://www.theparisreview.org/",
+    "canonicalDomain": "theparisreview.org",
+    "sourceType": "rss",
+    "feedUrl": "https://www.theparisreview.org/blog/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "interview"
+    ]
+  },
+  {
+    "id": "longreads",
+    "name": "Longreads",
+    "homepageUrl": "https://longreads.com/",
+    "canonicalDomain": "longreads.com",
+    "sourceType": "rss",
+    "feedUrl": "https://longreads.com/feed/",
+    "contentTypes": [
+      "essay",
+      "review",
+      "literary_news"
+    ]
+  },
+  {
+    "id": "words-without-borders",
+    "name": "Words Without Borders",
+    "homepageUrl": "https://wordswithoutborders.org/",
+    "canonicalDomain": "wordswithoutborders.org",
+    "sourceType": "rss",
+    "feedUrl": "https://wordswithoutborders.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "interview"
+    ]
+  },
+  {
+    "id": "drift",
+    "name": "The Drift",
+    "homepageUrl": "https://www.thedriftmag.com/",
+    "canonicalDomain": "thedriftmag.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.thedriftmag.com/feed/",
+    "contentTypes": [
+      "essay",
+      "review",
+      "fiction"
+    ]
+  },
+  {
+    "id": "asymptote",
+    "name": "Asymptote",
+    "homepageUrl": "https://www.asymptotejournal.com/",
+    "canonicalDomain": "asymptotejournal.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.asymptotejournal.com/blog/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review",
+      "interview"
+    ]
+  },
+  {
+    "id": "granta",
+    "name": "Granta",
+    "homepageUrl": "https://granta.com/",
+    "canonicalDomain": "granta.com",
+    "sourceType": "rss",
+    "feedUrl": "https://granta.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "essay",
+      "review",
+      "interview"
+    ]
+  },
+  {
+    "id": "aaww-the-margins",
+    "name": "The Margins",
+    "homepageUrl": "https://aaww.org/",
+    "canonicalDomain": "aaww.org",
+    "sourceType": "rss",
+    "feedUrl": "https://aaww.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "interview"
+    ]
+  },
+  {
+    "id": "friction",
+    "name": "F(r)iction",
+    "homepageUrl": "https://frictionlit.org/",
+    "canonicalDomain": "frictionlit.org",
+    "sourceType": "rss",
+    "feedUrl": "https://frictionlit.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "three-am-magazine",
+    "name": "3:AM Magazine",
+    "homepageUrl": "https://www.3ammagazine.com/",
+    "canonicalDomain": "3ammagazine.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.3ammagazine.com/3am/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review",
+      "interview"
+    ]
+  },
+  {
+    "id": "overland",
+    "name": "Overland",
+    "homepageUrl": "https://overland.org.au/",
+    "canonicalDomain": "overland.org.au",
+    "sourceType": "rss",
+    "feedUrl": "https://overland.org.au/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "kill-your-darlings",
+    "name": "Kill Your Darlings",
+    "homepageUrl": "https://www.killyourdarlings.com.au/",
+    "canonicalDomain": "killyourdarlings.com.au",
+    "sourceType": "rss",
+    "feedUrl": "https://www.killyourdarlings.com.au/feed/",
+    "contentTypes": [
+      "fiction",
+      "essay",
+      "review",
+      "interview"
+    ]
+  },
+  {
+    "id": "meanjin",
+    "name": "Meanjin",
+    "homepageUrl": "https://meanjin.com.au/",
+    "canonicalDomain": "meanjin.com.au",
+    "sourceType": "rss",
+    "feedUrl": "https://meanjin.com.au/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "stinging-fly",
+    "name": "The Stinging Fly",
+    "homepageUrl": "https://stingingfly.org/",
+    "canonicalDomain": "stingingfly.org",
+    "sourceType": "rss",
+    "feedUrl": "https://stingingfly.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ]
+  },
+  {
+    "id": "poet-lore",
+    "name": "Poet Lore",
+    "homepageUrl": "https://poetlore.com/",
+    "canonicalDomain": "poetlore.com",
+    "sourceType": "rss",
+    "feedUrl": "https://poetlore.com/feed/",
+    "contentTypes": [
+      "poetry",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "dublin-review",
+    "name": "The Dublin Review",
+    "homepageUrl": "https://thedublinreview.com/",
+    "canonicalDomain": "thedublinreview.com",
+    "sourceType": "rss",
+    "feedUrl": "https://thedublinreview.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review"
+    ]
+  },
+  {
+    "id": "the-walrus",
+    "name": "The Walrus",
+    "homepageUrl": "https://thewalrus.ca/",
+    "canonicalDomain": "thewalrus.ca",
+    "sourceType": "rss",
+    "feedUrl": "https://thewalrus.ca/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review",
+      "literary_news"
+    ]
+  },
+  {
+    "id": "narrative-magazine",
+    "name": "Narrative Magazine",
+    "homepageUrl": "https://www.narrativemagazine.com/",
+    "canonicalDomain": "narrativemagazine.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.narrativemagazine.com/rss.xml",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "interview"
+    ]
+  },
+  {
+    "id": "virginia-quarterly-review",
+    "name": "Virginia Quarterly Review",
+    "homepageUrl": "https://www.vqronline.org/",
+    "canonicalDomain": "vqronline.org",
+    "sourceType": "rss",
+    "feedUrl": "https://www.vqronline.org/rss.xml",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay",
+      "review",
+      "literary_news"
+    ]
+  }
+]
