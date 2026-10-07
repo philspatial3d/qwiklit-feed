@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QwikLit Editor’s Choice — reader review</title>
+<style>
+  :root { color-scheme: light; font-family: Georgia, serif; color: #183b2b; background: #f6f2e7; }
+  body { margin: 0; }
+  main { max-width: 860px; margin: 0 auto; padding: 36px 20px 80px; }
+  a { color: #245c43; }
+  .eyebrow, .meta, .status { font: 600 13px/1.5 system-ui, sans-serif; letter-spacing: .03em; }
+  .eyebrow { text-transform: uppercase; color: #845a42; }
+  h1 { font-size: clamp(2.3rem, 6vw, 4.1rem); line-height: 1.08; margin: 8px 0 16px; }
+  .intro { max-width: 680px; font-size: 1.15rem; line-height: 1.55; }
+  .status { display: inline-block; color: #72552d; background: #ece2c7; padding: 6px 10px; }
+  ol { list-style: none; counter-reset: picks; margin: 30px 0 0; padding: 0; display: grid; gap: 16px; }
+  li { counter-increment: picks; background: #fffdf8; border: 1px solid #ded8c9; border-left: 5px solid #426e4e; padding: 20px 22px; }
+  li::before { content: counter(picks, decimal-leading-zero); display: block; font: 700 12px system-ui, sans-serif; color: #845a42; }
+  h2 { margin: 8px 0 6px; font-size: 1.55rem; line-height: 1.2; }
+  h2 a { text-decoration-thickness: 1px; text-underline-offset: 3px; }
+  .meta { color: #526457; font-weight: 400; }
+  .note { font-size: 1.05rem; line-height: 1.55; margin-bottom: 0; }
+  .foot { margin-top: 30px; font: 14px/1.5 system-ui, sans-serif; color: #526457; }
+</style>
+<main>
+  <p class="eyebrow"><a href="../">QwikLit feed</a> / Editor’s Choice</p>
+  <h1>Ten works worth your time</h1>
+  <p class="intro">A weekly editorial starting point drawn from the publications in QwikLit’s active feed. Each selection links to its original publisher and carries a short note on why it stood out.</p>
+  <p class="status">Proposed for reader review · October 7, 2026</p>
+  <ol id="picks"><li>Loading the edition…</li></ol>
+  <p class="foot">This is a candidate selection for the QwikLit owner to read and curate. The original publishers retain their works. <a href="../v1/editors-choice.json">View the JSON feed</a>.</p>
+</main>
+<script>
+const list = document.querySelector('#picks');
+fetch('../v1/editors-choice.json').then((response) => {
+  if (!response.ok) throw new Error('Feed unavailable');
+  return response.json();
+}).then((feed) => {
+  list.replaceChildren();
+  const labels = { short_story: 'Short story', poetry: 'Poetry', essay: 'Essay', creative_nonfiction: 'Creative nonfiction', reportage: 'Reportage' };
+  for (const item of feed.items) {
+    const li = document.createElement('li');
+    const title = document.createElement('h2');
+    const link = document.createElement('a');
+    link.href = item.canonicalUrl;
+    link.textContent = item.title;
+    link.rel = 'noopener noreferrer';
+    title.append(link);
+    const meta = document.createElement('div');
+    meta.className = 'meta';
+    meta.textContent = `${item.authorDisplay} · ${item.canonicalSourceName} · ${labels[item.form] || item.form} · ${item.publisherDate}`;
+    const note = document.createElement('p');
+    note.className = 'note';
+    note.textContent = item.editorialNote;
+    li.append(title, meta, note);
+    list.append(li);
+  }
+}).catch(() => { list.replaceChildren(document.createTextNode('The editorial edition could not be loaded right now.')); });
+</script>
+</html>

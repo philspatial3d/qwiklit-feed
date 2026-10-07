@@ -8,6 +8,7 @@
 <p>Publication titles, dates, authors, and links are refreshed automatically. Read each work at its original publisher.</p>
 <p id="status">Checking the latest published edition…</p>
 <p><a href="./v1/today.json">View the feed JSON</a></p>
+<p><a href="./editors-choice/">Read the Editor’s Choice candidates</a></p>
 <script>
 fetch('./v1/today.json', {cache:'no-store'}).then(r=>r.json()).then(feed=>{
   document.querySelector('#status').textContent = `${feed.items.length} links · ${feed.successfulSourceCount}/${feed.totalSourceCount} publications refreshed · ${new Date(feed.refreshedAt).toLocaleString()}`;
