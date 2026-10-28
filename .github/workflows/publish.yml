@@ -26,11 +26,12 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run refresh
+      - run: node archive-editors-choice.mjs
       - name: Save the published edition
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add site/v1/today.json
+          git add site/v1/today.json site/v1/editors-choice-history.json
           git commit -m 'Refresh publication feed' || true
           git push
       - uses: actions/configure-pages@v5
