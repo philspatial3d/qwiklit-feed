@@ -1,0 +1,981 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "historical-standard-ebooks",
+      "name": "Standard Ebooks",
+      "homepageUrl": "https://standardebooks.org",
+      "archiveUrl": "https://standardebooks.org/ebooks?tags%5B%5D=shorts",
+      "notes": "Edited reading editions; individual story links, rather than collection landing pages. Some editions use Gutenberg transcriptions; this is a distinct reading host, not a claim of independent digitization.",
+      "focus": "Carefully edited classics by Chekhov, Joyce, and Fitzgerald."
+    },
+    {
+      "id": "historical-wikisource",
+      "name": "Wikisource",
+      "homepageUrl": "https://en.wikisource.org",
+      "archiveUrl": "https://en.wikisource.org/wiki/Portal:Short_stories",
+      "notes": "Community transcriptions, often backed by scans. Host rights statements are jurisdiction-specific; QwikLit links outward without claiming worldwide public-domain clearance.",
+      "focus": "Classic fiction and early science fiction, with editions from around the world."
+    },
+    {
+      "id": "historical-lit2go",
+      "name": "Lit2Go · University of South Florida",
+      "homepageUrl": "https://etc.usf.edu/lit2go/",
+      "archiveUrl": "https://etc.usf.edu/lit2go/books/",
+      "notes": "University reading pages with optional audio, word counts, and edition citations. Collection edition year is not asserted as the first publication year.",
+      "focus": "Classic stories to read or listen to, from the University of South Florida."
+    },
+    {
+      "id": "historical-library-of-america",
+      "name": "Library of America · Story of the Week",
+      "homepageUrl": "https://www.loa.org",
+      "archiveUrl": "https://storyoftheweek.loa.org/",
+      "notes": "Publisher selections with introductions and free story PDFs reached from each selection page. New weekly selections can include essays, so automatic indiscriminate import is intentionally avoided.",
+      "focus": "Rediscovered American writing selected by the Library of America."
+    },
+    {
+      "id": "historical-poe-society",
+      "name": "Edgar Allan Poe Society of Baltimore",
+      "homepageUrl": "https://www.eapoe.org",
+      "archiveUrl": "https://www.eapoe.org/works/tales/index.htm",
+      "notes": "Scholarly reading texts with textual and edition history.",
+      "focus": "Gothic tales and horror from Edgar Allan Poe."
+    },
+    {
+      "id": "historical-george-eliot",
+      "name": "George Eliot Archive",
+      "homepageUrl": "https://georgeeliotarchive.org",
+      "archiveUrl": "https://georgeeliotarchive.org/fiction",
+      "notes": "Scholarly archive with free digitized editions. Longer works are labeled novella; page gives access to a reading viewer.",
+      "focus": "George Eliot’s shorter fiction and novellas in early editions."
+    },
+    {
+      "id": "historical-kate-chopin",
+      "name": "Kate Chopin International Society",
+      "homepageUrl": "https://www.katechopin.org",
+      "archiveUrl": "https://www.katechopin.org/short-stories/",
+      "notes": "Scholarly society, free accurate texts and PDFs; direct reading links are used instead of critical summaries.",
+      "focus": "Stories of freedom, identity, and everyday life by Kate Chopin."
+    },
+    {
+      "id": "historical-east-of-web",
+      "name": "East of the Web",
+      "homepageUrl": "https://www.eastoftheweb.com",
+      "archiveUrl": "https://www.eastoftheweb.com/fiction",
+      "notes": "Free classic and contemporary story pages. Fiction-index discovery adds named stories after title/byline verification; dates stay absent when the publisher does not supply them.",
+      "focus": "Classic stories alongside free fiction by contemporary writers."
+    },
+    {
+      "id": "historical-peter-watts",
+      "name": "Peter Watts · Author’s Backlist",
+      "homepageUrl": "https://www.rifters.com",
+      "archiveUrl": "https://www.rifters.com/real/shorts.htm",
+      "notes": "Free stories linked by the author, with a Creative Commons notice on the backlist. QwikLit uses metadata-only outbound links; the license is not treated as permission to republish here.",
+      "focus": "Science fiction shared by the author, from first contact to distant futures."
+    },
+    {
+      "id": "historical-docsouth",
+      "name": "Documenting the American South · UNC",
+      "homepageUrl": "https://docsouth.unc.edu",
+      "archiveUrl": "https://docsouth.unc.edu/southlit/",
+      "notes": "University digitized editions; story anchors point inside the original collection.",
+      "focus": "Charles W. Chesnutt’s fiction in the University of North Carolina’s literary collection."
+    },
+    {
+      "id": "historical-uva-twain",
+      "name": "Mark Twain in His Times · University of Virginia",
+      "homepageUrl": "https://twain.lib.virginia.edu",
+      "archiveUrl": "https://twain.lib.virginia.edu/about/txtindex.html",
+      "notes": "University scholarly archive with early published story texts.",
+      "focus": "Mark Twain’s humor and early stories from the University of Virginia."
+    },
+    {
+      "id": "historical-lightspeed",
+      "name": "Lightspeed · Free Reprints",
+      "homepageUrl": "https://www.lightspeedmagazine.com",
+      "archiveUrl": "https://www.lightspeedmagazine.com/fiction/",
+      "notes": "Publisher-hosted free fiction. Curated older works, with original publication years separate from the reprint dates.",
+      "focus": "Free science fiction reprints by Peter Watts and Ken Liu."
+    }
+  ],
+  "items": [
+    {
+      "id": "historical-anton-chekhov-the-lady-with-the-dog",
+      "sourceId": "historical-standard-ebooks",
+      "title": "The Lady with the Dog",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-lady-with-the-dog",
+      "originalYear": 1899,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
+    },
+    {
+      "id": "historical-anton-chekhov-the-darling",
+      "sourceId": "historical-standard-ebooks",
+      "title": "The Darling",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-darling",
+      "originalYear": 1899,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
+    },
+    {
+      "id": "historical-anton-chekhov-misery",
+      "sourceId": "historical-standard-ebooks",
+      "title": "Misery",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/misery",
+      "originalYear": 1886,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
+    },
+    {
+      "id": "historical-anton-chekhov-the-student",
+      "sourceId": "historical-standard-ebooks",
+      "title": "The Student",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-student",
+      "originalYear": 1894,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
+    },
+    {
+      "id": "historical-anton-chekhov-the-kiss",
+      "sourceId": "historical-standard-ebooks",
+      "title": "The Kiss",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-kiss",
+      "originalYear": 1887,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
+    },
+    {
+      "id": "historical-anton-chekhov-vanka",
+      "sourceId": "historical-standard-ebooks",
+      "title": "Vanka",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/vanka",
+      "originalYear": 1886,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
+    },
+    {
+      "id": "historical-anton-chekhov-the-bet",
+      "sourceId": "historical-standard-ebooks",
+      "title": "The Bet",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-bet",
+      "originalYear": 1889,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
+    },
+    {
+      "id": "historical-anton-chekhov-sleepy",
+      "sourceId": "historical-standard-ebooks",
+      "title": "Sleepy",
+      "author": "Anton Chekhov",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/sleepy",
+      "originalYear": 1888,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
+    },
+    {
+      "id": "historical-james-joyce-the-dead",
+      "sourceId": "historical-standard-ebooks",
+      "title": "The Dead",
+      "author": "James Joyce",
+      "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/the-dead",
+      "originalYear": 1914,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
+    },
+    {
+      "id": "historical-james-joyce-araby",
+      "sourceId": "historical-standard-ebooks",
+      "title": "Araby",
+      "author": "James Joyce",
+      "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/araby",
+      "originalYear": 1914,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
+    },
+    {
+      "id": "historical-james-joyce-eveline",
+      "sourceId": "historical-standard-ebooks",
+      "title": "Eveline",
+      "author": "James Joyce",
+      "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/eveline",
+      "originalYear": 1904,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
+    },
+    {
+      "id": "historical-james-joyce-a-little-cloud",
+      "sourceId": "historical-standard-ebooks",
+      "title": "A Little Cloud",
+      "author": "James Joyce",
+      "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/a-little-cloud",
+      "originalYear": 1914,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
+    },
+    {
+      "id": "historical-kurt-vonnegut-2-b-r-0-2-b",
+      "sourceId": "historical-wikisource",
+      "title": "2 B R 0 2 B",
+      "author": "Kurt Vonnegut",
+      "url": "https://en.wikisource.org/wiki/2_B_R_0_2_B",
+      "originalYear": 1962,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "science fiction",
+        "satire"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-kurt-vonnegut-the-big-trip-up-yonder",
+      "sourceId": "historical-wikisource",
+      "title": "The Big Trip Up Yonder",
+      "author": "Kurt Vonnegut",
+      "url": "https://en.wikisource.org/wiki/The_Big_Trip_Up_Yonder",
+      "originalYear": 1954,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "science fiction",
+        "satire"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-charlotte-perkins-gilman-the-yellow-wall-paper",
+      "sourceId": "historical-wikisource",
+      "title": "The Yellow Wall-Paper",
+      "author": "Charlotte Perkins Gilman",
+      "url": "https://en.wikisource.org/wiki/The_Yellow_Wall-Paper",
+      "originalYear": 1892,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "gothic",
+        "psychological"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-w-e-b-du-bois-the-comet",
+      "sourceId": "historical-wikisource",
+      "title": "The Comet",
+      "author": "W. E. B. Du Bois",
+      "url": "https://en.wikisource.org/wiki/Darkwater/Chapter_10",
+      "originalYear": 1920,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "science fiction"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-saki-the-open-window",
+      "sourceId": "historical-wikisource",
+      "title": "The Open Window",
+      "author": "Saki",
+      "url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Open_Window",
+      "originalYear": 1914,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "humor"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-rabindranath-tagore-the-cabuliwallah",
+      "sourceId": "historical-wikisource",
+      "title": "The Cabuliwallah",
+      "author": "Rabindranath Tagore",
+      "url": "https://en.wikisource.org/wiki/The_Hungry_Stones_and_Other_Stories/The_Cabuliwallah",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-f-scott-fitzgerald-the-curious-case-of-benjamin-button",
+      "sourceId": "historical-standard-ebooks",
+      "title": "The Curious Case of Benjamin Button",
+      "author": "F. Scott Fitzgerald",
+      "url": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction/text/the-curious-case-of-benjamin-button",
+      "originalYear": 1922,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary",
+        "Jazz Age"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
+    },
+    {
+      "id": "historical-f-scott-fitzgerald-winter-dreams",
+      "sourceId": "historical-standard-ebooks",
+      "title": "Winter Dreams",
+      "author": "F. Scott Fitzgerald",
+      "url": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction/text/winter-dreams",
+      "originalYear": 1922,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary",
+        "Jazz Age"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
+    },
+    {
+      "id": "historical-f-scott-fitzgerald-the-diamond-as-big-as-the-ritz",
+      "sourceId": "historical-standard-ebooks",
+      "title": "The Diamond as Big as the Ritz",
+      "author": "F. Scott Fitzgerald",
+      "url": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction/text/the-diamond-as-big-as-the-ritz",
+      "originalYear": 1922,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary",
+        "Jazz Age"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
+    },
+    {
+      "id": "historical-f-scott-fitzgerald-the-offshore-pirate",
+      "sourceId": "historical-standard-ebooks",
+      "title": "The Offshore Pirate",
+      "author": "F. Scott Fitzgerald",
+      "url": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction/text/the-offshore-pirate",
+      "originalYear": 1920,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary",
+        "Jazz Age"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
+    },
+    {
+      "id": "historical-o-henry-the-gift-of-the-magi",
+      "sourceId": "historical-lit2go",
+      "title": "The Gift of the Magi",
+      "author": "O. Henry",
+      "url": "https://etc.usf.edu/lit2go/131/the-four-million/2387/the-gift-of-the-magi/",
+      "originalYear": 1905,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary",
+        "twist ending"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-o-henry-the-cop-and-the-anthem",
+      "sourceId": "historical-lit2go",
+      "title": "The Cop and the Anthem",
+      "author": "O. Henry",
+      "url": "https://etc.usf.edu/lit2go/131/the-four-million/2401/the-cop-and-the-anthem/",
+      "originalYear": 1904,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary",
+        "twist ending"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-o-henry-the-furnished-room",
+      "sourceId": "historical-lit2go",
+      "title": "The Furnished Room",
+      "author": "O. Henry",
+      "url": "https://etc.usf.edu/lit2go/131/the-four-million/2416/the-furnished-room/",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary",
+        "twist ending"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-o-henry-springtime-la-carte",
+      "sourceId": "historical-lit2go",
+      "title": "Springtime à la Carte",
+      "author": "O. Henry",
+      "url": "https://etc.usf.edu/lit2go/131/the-four-million/2406/springtime-a-la-carte/",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary",
+        "twist ending"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-f-scott-fitzgerald-bernice-bobs-her-hair",
+      "sourceId": "historical-library-of-america",
+      "title": "Bernice Bobs Her Hair",
+      "author": "F. Scott Fitzgerald",
+      "url": "https://storyoftheweek.loa.org/2013/05/bernice-bobs-her-hair.html",
+      "originalYear": 1920,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary",
+        "Jazz Age"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-f-scott-fitzgerald-the-cut-glass-bowl",
+      "sourceId": "historical-library-of-america",
+      "title": "The Cut-Glass Bowl",
+      "author": "F. Scott Fitzgerald",
+      "url": "https://storyoftheweek.loa.org/2009/12/cut-glass-bowl.html",
+      "originalYear": 1920,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary",
+        "Jazz Age"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-edgar-allan-poe-the-tell-tale-heart",
+      "sourceId": "historical-poe-society",
+      "title": "The Tell-Tale Heart",
+      "author": "Edgar Allan Poe",
+      "url": "https://www.eapoe.org/works/reading/pt043r1.htm",
+      "originalYear": 1843,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "gothic",
+        "horror"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-edgar-allan-poe-the-black-cat",
+      "sourceId": "historical-poe-society",
+      "title": "The Black Cat",
+      "author": "Edgar Allan Poe",
+      "url": "https://www.eapoe.org/works/reading/pt044r1.htm",
+      "originalYear": 1843,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "gothic",
+        "horror"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-edgar-allan-poe-the-cask-of-amontillado",
+      "sourceId": "historical-poe-society",
+      "title": "The Cask of Amontillado",
+      "author": "Edgar Allan Poe",
+      "url": "https://www.eapoe.org/works/reading/pt063r1.htm",
+      "originalYear": 1846,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "gothic",
+        "horror"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-edgar-allan-poe-the-fall-of-the-house-of-usher",
+      "sourceId": "historical-poe-society",
+      "title": "The Fall of the House of Usher",
+      "author": "Edgar Allan Poe",
+      "url": "https://www.eapoe.org/works/reading/pt025r1.htm",
+      "originalYear": 1839,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "gothic",
+        "horror"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-edgar-allan-poe-the-pit-and-the-pendulum",
+      "sourceId": "historical-poe-society",
+      "title": "The Pit and the Pendulum",
+      "author": "Edgar Allan Poe",
+      "url": "https://www.eapoe.org/works/tales/pitpdmc.htm",
+      "originalYear": 1842,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "gothic",
+        "horror"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-george-eliot-the-lifted-veil",
+      "sourceId": "historical-george-eliot",
+      "title": "The Lifted Veil",
+      "author": "George Eliot",
+      "url": "https://georgeeliotarchive.org/items/show/593",
+      "originalYear": 1859,
+      "form": "novella",
+      "era": "classic",
+      "genres": [
+        "Victorian",
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-george-eliot-brother-jacob",
+      "sourceId": "historical-george-eliot",
+      "title": "Brother Jacob",
+      "author": "George Eliot",
+      "url": "https://georgeeliotarchive.org/items/show/592",
+      "originalYear": 1864,
+      "form": "novella",
+      "era": "classic",
+      "genres": [
+        "Victorian",
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-george-eliot-janet-s-repentance",
+      "sourceId": "historical-george-eliot",
+      "title": "Janet’s Repentance",
+      "author": "George Eliot",
+      "url": "https://georgeeliotarchive.org/items/show/286",
+      "originalYear": 1857,
+      "form": "novella",
+      "era": "classic",
+      "genres": [
+        "Victorian",
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-george-eliot-mr-gilfil-s-love-story",
+      "sourceId": "historical-george-eliot",
+      "title": "Mr. Gilfil’s Love Story",
+      "author": "George Eliot",
+      "url": "https://georgeeliotarchive.org/items/show/285",
+      "originalYear": 1857,
+      "form": "novella",
+      "era": "classic",
+      "genres": [
+        "Victorian",
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-kate-chopin-the-story-of-an-hour",
+      "sourceId": "historical-kate-chopin",
+      "title": "The Story of an Hour",
+      "author": "Kate Chopin",
+      "url": "https://www.katechopin.org/story-hour/",
+      "originalYear": 1894,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-kate-chopin-d-sir-e-s-baby",
+      "sourceId": "historical-kate-chopin",
+      "title": "Désirée’s Baby",
+      "author": "Kate Chopin",
+      "url": "https://www.katechopin.org/desirees-baby-text/",
+      "originalYear": 1893,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-kate-chopin-a-pair-of-silk-stockings",
+      "sourceId": "historical-kate-chopin",
+      "title": "A Pair of Silk Stockings",
+      "author": "Kate Chopin",
+      "url": "https://www.katechopin.org/pdfs/Kate%20Chopin%2c%20A%20Pair%20of%20Silk%20Stockings.pdf",
+      "originalYear": 1897,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-saki-the-penance",
+      "sourceId": "historical-east-of-web",
+      "title": "The Penance",
+      "author": "Saki",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Pena.shtml",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "humor"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-john-polidori-the-vampyre",
+      "sourceId": "historical-east-of-web",
+      "title": "The Vampyre",
+      "author": "John Polidori",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Vamp.shtml",
+      "originalYear": 1819,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "gothic"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-richard-f-walker-one-small-fix-for-mankind",
+      "sourceId": "historical-east-of-web",
+      "title": "One Small Fix For Mankind",
+      "author": "Richard F. Walker",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/OneSmal1414.shtml",
+      "form": "short_story",
+      "era": "modern",
+      "genres": [
+        "science fiction"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-pauline-moss-siren-call",
+      "sourceId": "historical-east-of-web",
+      "title": "Siren Call",
+      "author": "Pauline Moss",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/SireCall1416.shtml",
+      "form": "short_story",
+      "era": "modern",
+      "genres": [
+        "literary"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-peter-watts-the-island",
+      "sourceId": "historical-peter-watts",
+      "title": "The Island",
+      "author": "Peter Watts",
+      "url": "https://www.rifters.com/real/shorts/PeterWatts_TheIsland.pdf",
+      "originalYear": 2009,
+      "form": "short_story",
+      "era": "modern",
+      "genres": [
+        "science fiction"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-peter-watts-malak",
+      "sourceId": "historical-peter-watts",
+      "title": "Malak",
+      "author": "Peter Watts",
+      "url": "https://www.rifters.com/real/shorts/PeterWatts_Malak.pdf",
+      "form": "short_story",
+      "era": "modern",
+      "genres": [
+        "science fiction"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-peter-watts-ambassador",
+      "sourceId": "historical-peter-watts",
+      "title": "Ambassador",
+      "author": "Peter Watts",
+      "url": "https://www.rifters.com/real/shorts/PeterWatts_Ambassador.pdf",
+      "originalYear": 2000,
+      "form": "short_story",
+      "era": "modern",
+      "genres": [
+        "science fiction"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-charles-w-chesnutt-the-goophered-grapevine",
+      "sourceId": "historical-docsouth",
+      "title": "The Goophered Grapevine",
+      "author": "Charles W. Chesnutt",
+      "url": "https://docsouth.unc.edu/southlit/chesnuttconjure/conjure.html#conjure1",
+      "originalYear": 1887,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "African American literature",
+        "folklore"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-charles-w-chesnutt-po-sandy",
+      "sourceId": "historical-docsouth",
+      "title": "Po’ Sandy",
+      "author": "Charles W. Chesnutt",
+      "url": "https://docsouth.unc.edu/southlit/chesnuttconjure/conjure.html#conjure36",
+      "originalYear": 1888,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "African American literature",
+        "folklore"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-charles-w-chesnutt-sis-becky-s-pickaninny",
+      "sourceId": "historical-docsouth",
+      "title": "Sis’ Becky’s Pickaninny",
+      "author": "Charles W. Chesnutt",
+      "url": "https://docsouth.unc.edu/southlit/chesnuttconjure/conjure.html#conjure132",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "African American literature",
+        "folklore"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-mark-twain-the-celebrated-jumping-frog-of-calaveras-county",
+      "sourceId": "historical-uva-twain",
+      "title": "The Celebrated Jumping Frog",
+      "author": "Mark Twain",
+      "url": "https://twain.lib.virginia.edu/huckfinn/jumpfrog.html",
+      "originalYear": 1865,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "humor",
+        "American literature"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only",
+      "attributionUrl": "https://twain.lib.virginia.edu/about/txtindex.html"
+    },
+    {
+      "id": "historical-mark-twain-a-true-story",
+      "sourceId": "historical-uva-twain",
+      "title": "A True Story",
+      "author": "Mark Twain",
+      "url": "https://twain.lib.virginia.edu/huckfinn/truest1.html",
+      "originalYear": 1874,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "humor",
+        "American literature"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-mark-twain-the-story-of-the-bad-little-boy",
+      "sourceId": "historical-uva-twain",
+      "title": "Story of the Bad Little Boy",
+      "author": "Mark Twain",
+      "url": "https://twain.lib.virginia.edu/tomsawye/mtbadboy.html",
+      "originalYear": 1865,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "humor",
+        "American literature"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-mark-twain-the-story-of-the-good-little-boy",
+      "sourceId": "historical-uva-twain",
+      "title": "Story of the Good Little Boy",
+      "author": "Mark Twain",
+      "url": "https://twain.lib.virginia.edu/tomsawye/mtgoodboy.html",
+      "originalYear": 1870,
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "humor",
+        "American literature"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-peter-watts-collateral",
+      "sourceId": "historical-lightspeed",
+      "title": "Collateral",
+      "author": "Peter Watts",
+      "url": "https://www.lightspeedmagazine.com/fiction/collateral/",
+      "originalYear": 2014,
+      "form": "short_story",
+      "era": "modern",
+      "genres": [
+        "science fiction"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-ken-liu-mono-no-aware",
+      "sourceId": "historical-lightspeed",
+      "title": "Mono no aware",
+      "author": "Ken Liu",
+      "url": "https://www.lightspeedmagazine.com/fiction/mono-no-aware/",
+      "originalYear": 2012,
+      "form": "short_story",
+      "era": "modern",
+      "genres": [
+        "science fiction"
+      ],
+      "verifiedAt": "2026-10-30T16:00:00.000Z",
+      "rightsMode": "metadata_only"
+    }
+  ]
+}

@@ -16,6 +16,12 @@ GitHub Actions runs `refresh.mjs` every six hours and deploys `site/` to GitHub 
 
 The feed is periodically refreshed, rather than an instantaneous stream. Publisher sites control what their RSS or public API makes available and may block automated requests. The JSON reports the number of successful sources and lists the failures.
 
+## Historical stories
+
+`site/v1/historical.json` is a separate metadata-only reading catalog. `historical-catalog.json` supplies curated individual classics and later free fiction; `node refresh-historical.mjs` checks their story links and discovers additional stories from East of the Web’s fiction index. It does not modify `today.json` or editorial picks. The six-hour workflow publishes all routes together. `site/v1/historical-health.json` records per-link checks and retained records when a host fails. Run `npm test` to verify the discovery and deduplication rules.
+
+To add a curated work, register its host and add a stable ID, title, author, canonical HTTPS reading URL, form, era, genre tags, and `rightsMode: metadata_only`. Supply an original year only when known. Use `attributionUrl` only for a verified collection page when the individual reading page omits its author; it must be on the same host and link to or contain that story. Successful verification updates `verifiedAt`, which is never used as a publication date. QwikLit stores no host story text or artwork.
+
 To inspect the current edition, open `https://philspatial3d.github.io/qwiklit-feed/` in a browser. To check automatic updates, open the repository's **Actions** tab and choose **Refresh and publish the QwikLit feed**. The **Run workflow** button provides a one-time retry if GitHub misses a scheduled run; normal updates require no CLI commands.
 
 GitHub may disable schedules in public repositories after 60 days without repository activity. The workflow saves each successful edition as a commit, but the Actions page should still be checked occasionally for failures or a disabled schedule.
