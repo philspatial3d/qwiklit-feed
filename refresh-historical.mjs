@@ -91,8 +91,10 @@ try {
 
 const catalogIds = new Set(catalog.items.map((item) => item.id));
 // Keep a bounded backlist of prior discoveries; never promote an unverified candidate.
-const backlist = (previous?.items ?? []).filter((item) => !catalogIds.has(item.id)).slice(-48);
-const items = mergeHistoricalItems(verified, [...discovered, ...backlist]);
+const discoveredUrls = new Set(discovered.map((item) => item.url));
+const backlist = (previous?.items ?? []).filter((item) => !catalogIds.has(item.id) && !discoveredUrls.has(item.url)).slice(0, Math.max(0, 48 - discovered.length));
+const checkedBacklist = await mapBounded(backlist, verify);
+const items = mergeHistoricalItems(verified, [...discovered, ...checkedBacklist]);
 const represented = new Set(items.map((item) => item.sourceId));
 await writeFile(new URL('./site/v1/historical-health.json', import.meta.url), `${JSON.stringify({ checkedAt, checks }, null, 2)}\n`);
 if (represented.size < 10 || items.length < 40) {

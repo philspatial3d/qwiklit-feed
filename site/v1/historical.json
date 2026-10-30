@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "refreshedAt": "2026-10-30T15:56:47.455Z",
+  "refreshedAt": "2026-10-30T16:05:54.928Z",
   "sources": [
     {
       "id": "historical-standard-ebooks",
@@ -112,7 +112,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -128,7 +128,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -144,7 +144,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -160,7 +160,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -176,7 +176,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -192,7 +192,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -208,7 +208,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -224,7 +224,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -240,7 +240,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
     },
@@ -256,7 +256,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
     },
@@ -272,7 +272,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
     },
@@ -288,7 +288,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
     },
@@ -305,7 +305,7 @@
         "science fiction",
         "satire"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -321,7 +321,7 @@
         "science fiction",
         "satire"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -337,7 +337,7 @@
         "gothic",
         "psychological"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -352,7 +352,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -367,7 +367,7 @@
       "genres": [
         "humor"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -381,7 +381,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -397,7 +397,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
     },
@@ -414,7 +414,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
     },
@@ -431,7 +431,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
     },
@@ -448,7 +448,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
     },
@@ -465,7 +465,7 @@
         "literary",
         "twist ending"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -481,7 +481,7 @@
         "literary",
         "twist ending"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -496,7 +496,7 @@
         "literary",
         "twist ending"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -511,7 +511,7 @@
         "literary",
         "twist ending"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -527,7 +527,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-10-30T15:53:58.873Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -543,7 +543,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -559,7 +559,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -575,7 +575,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -591,7 +591,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -607,7 +607,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -623,7 +623,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -639,7 +639,7 @@
         "Victorian",
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -655,7 +655,7 @@
         "Victorian",
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -671,7 +671,7 @@
         "Victorian",
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -687,7 +687,7 @@
         "Victorian",
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -702,7 +702,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:53:58.873Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -717,7 +717,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:53:58.873Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -732,7 +732,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:53:58.873Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -746,7 +746,7 @@
       "genres": [
         "humor"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -761,7 +761,7 @@
       "genres": [
         "gothic"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -775,7 +775,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -789,7 +789,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -804,7 +804,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -818,7 +818,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -833,7 +833,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -849,7 +849,7 @@
         "African American literature",
         "folklore"
       ],
-      "verifiedAt": "2026-10-30T15:53:58.873Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -865,7 +865,7 @@
         "African American literature",
         "folklore"
       ],
-      "verifiedAt": "2026-10-30T15:53:58.873Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -880,7 +880,7 @@
         "African American literature",
         "folklore"
       ],
-      "verifiedAt": "2026-10-30T15:53:58.873Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -896,7 +896,7 @@
         "humor",
         "American literature"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://twain.lib.virginia.edu/about/txtindex.html"
     },
@@ -913,7 +913,7 @@
         "humor",
         "American literature"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -929,7 +929,7 @@
         "humor",
         "American literature"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -945,7 +945,7 @@
         "humor",
         "American literature"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -960,7 +960,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -975,7 +975,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -989,7 +989,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1003,7 +1003,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1017,7 +1017,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1031,7 +1031,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1045,7 +1045,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1059,7 +1059,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1073,7 +1073,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1087,7 +1087,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1101,7 +1101,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1115,7 +1115,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1129,7 +1129,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1143,80 +1143,80 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-10-30T15:56:47.455Z",
+      "verifiedAt": "2026-10-30T16:05:54.928Z",
       "rightsMode": "metadata_only"
     }
   ],
   "sourceStatus": [
     {
       "sourceId": "historical-standard-ebooks",
-      "checkedAt": "2026-10-30T15:56:47.455Z",
+      "checkedAt": "2026-10-30T16:05:54.928Z",
       "successful": 16,
       "failed": 0
     },
     {
       "sourceId": "historical-wikisource",
-      "checkedAt": "2026-10-30T15:56:47.455Z",
+      "checkedAt": "2026-10-30T16:05:54.928Z",
       "successful": 6,
       "failed": 0
     },
     {
       "sourceId": "historical-lit2go",
-      "checkedAt": "2026-10-30T15:56:47.455Z",
+      "checkedAt": "2026-10-30T16:05:54.928Z",
       "successful": 4,
       "failed": 0
     },
     {
       "sourceId": "historical-library-of-america",
-      "checkedAt": "2026-10-30T15:56:47.455Z",
-      "successful": 1,
-      "failed": 1
+      "checkedAt": "2026-10-30T16:05:54.928Z",
+      "successful": 2,
+      "failed": 0
     },
     {
       "sourceId": "historical-poe-society",
-      "checkedAt": "2026-10-30T15:56:47.455Z",
+      "checkedAt": "2026-10-30T16:05:54.928Z",
       "successful": 5,
       "failed": 0
     },
     {
       "sourceId": "historical-george-eliot",
-      "checkedAt": "2026-10-30T15:56:47.455Z",
+      "checkedAt": "2026-10-30T16:05:54.928Z",
       "successful": 4,
       "failed": 0
     },
     {
       "sourceId": "historical-kate-chopin",
-      "checkedAt": "2026-10-30T15:56:47.455Z",
-      "successful": 0,
-      "failed": 3
+      "checkedAt": "2026-10-30T16:05:54.928Z",
+      "successful": 3,
+      "failed": 0
     },
     {
       "sourceId": "historical-east-of-web",
-      "checkedAt": "2026-10-30T15:56:47.455Z",
+      "checkedAt": "2026-10-30T16:05:54.928Z",
       "successful": 16,
       "failed": 0
     },
     {
       "sourceId": "historical-peter-watts",
-      "checkedAt": "2026-10-30T15:56:47.455Z",
+      "checkedAt": "2026-10-30T16:05:54.928Z",
       "successful": 3,
       "failed": 0
     },
     {
       "sourceId": "historical-docsouth",
-      "checkedAt": "2026-10-30T15:56:47.455Z",
-      "successful": 0,
-      "failed": 3
+      "checkedAt": "2026-10-30T16:05:54.928Z",
+      "successful": 3,
+      "failed": 0
     },
     {
       "sourceId": "historical-uva-twain",
-      "checkedAt": "2026-10-30T15:56:47.455Z",
+      "checkedAt": "2026-10-30T16:05:54.928Z",
       "successful": 4,
       "failed": 0
     },
     {
       "sourceId": "historical-lightspeed",
-      "checkedAt": "2026-10-30T15:56:47.455Z",
+      "checkedAt": "2026-10-30T16:05:54.928Z",
       "successful": 2,
       "failed": 0
     }
