@@ -2,6 +2,7 @@ import { createHash } from 'node:crypto';
 import { readFile, writeFile } from 'node:fs/promises';
 import { XMLParser } from 'fast-xml-parser';
 import sources from './sources.json' with { type: 'json' };
+import { publicationEntryMetadata } from './publication-metadata.mjs';
 
 const output = new URL('./site/v1/today.json', import.meta.url);
 const parser = new XMLParser({ ignoreAttributes: false, removeNSPrefix: true, textNodeName: '#text', processEntities: false });
@@ -37,40 +38,34 @@ function sourceOwnsUrl(source, value) {
   }
 }
 
-function classify(source, entry) {
-  const text = `${entry.title} ${entry.link} ${values(entry.category).join(' ')}`.toLowerCase();
-  const has = (...words) => words.some((word) => text.includes(word));
-  if (has('podcast', '/audio/', '/podcasts/')) return ['audio', 'news'];
-  if (has('interview', 'conversation', 'author spotlight')) return ['interview', 'interview'];
-  if (has('review', 'bookshelf')) return ['review', 'review'];
-  if (has('poem', 'poetry')) return ['poetry', 'poem'];
-  if (has('essay', 'criticism', 'nonfiction', 'non-fiction', 'craft')) return ['essay', 'essay'];
-  if (has('flash fiction', 'microfiction', '/flash/')) return ['flash', 'flash'];
-  if (has('/fiction/', '/short-fiction/', '/short-stories/', '/stories/', '/story/', 'short story', 'short fiction')) return ['fiction', 'short_story'];
-  const type = source.contentTypes.includes('literary_news') ? 'literary_news' : source.contentTypes[0] ?? 'literary_news';
-  return [type, ({ fiction: 'short_story', flash: 'flash', poetry: 'poem', essay: 'essay', review: 'review', interview: 'interview' })[type] ?? 'news'];
-}
 
 function normalize(source, entry, checkedAt) {
-  const title = cleanText(entry.title);
-  const canonicalUrl = cleanText(entry.link || entry.guid);
-  if (!title || /^(protected|private):\s/i.test(title) || !sourceOwnsUrl(source, canonicalUrl)) return null;
-  const [contentType, formTag] = classify(source, entry);
+  const metadata = publicationEntryMetadata(source, entry);
+  if (!metadata || !sourceOwnsUrl(source, metadata.canonicalUrl)) return null;
+  const { title, canonicalUrl, authorDisplay, contentType, formTag, language } = metadata;
   if (contentType === 'audio' || contentType === 'submission_call') return null;
   const rawDate = cleanText(entry.pubDate);
   const publicationDate = rawDate && !Number.isNaN(Date.parse(rawDate)) ? new Date(rawDate).toISOString() : undefined;
   const id = createHash('sha1').update(`live|${source.id}|${canonicalUrl}`).digest('hex');
   return {
     id, sourceId: source.id, canonicalUrl, title,
-    authorDisplay: cleanText(entry.author), publicationDate, discoveredAt: checkedAt,
-    contentType, genreTags: [], moodTags: [], formTags: [formTag], language: 'en',
+    authorDisplay, publicationDate, discoveredAt: checkedAt,
+    contentType, genreTags: [], moodTags: [], formTags: [formTag], language,
     rightsMode: 'metadata_only', canonicalSourceName: source.name,
-    qualityFlags: ['live_feed_request'], dedupeHash: createHash('sha256').update(`${source.id}|${canonicalUrl}`).digest('hex'),
+    qualityFlags: ['live_feed_request', ...metadata.qualityFlags], dedupeHash: createHash('sha256').update(`${source.id}|${canonicalUrl}`).digest('hex'),
     status: 'approved',
   };
 }
 
 function parseEntries(source, body, endpoint) {
+  if (/^[\s\r\n]*\[/.test(body)) {
+    return values(JSON.parse(body)).map((post) => ({
+      title: post.title?.rendered, link: post.link,
+      pubDate: post.date_gmt ? `${post.date_gmt}Z` : post.date,
+      category: values(post.class_list).filter((value) => value.startsWith('genre-')).map((value) => value.slice(6)),
+      body: post.content?.rendered ?? post.excerpt?.rendered,
+    }));
+  }
   if (source.sourceType === 'wordpress_rest') {
     return values(JSON.parse(body).posts).map((post) => ({
       title: post.title, link: post.URL, pubDate: post.date,
@@ -90,11 +85,13 @@ function parseEntries(source, body, endpoint) {
     pubDate: valueText(item.pubDate ?? item.published ?? item.updated),
     author: valueText(item.creator ?? item.author?.name ?? item.author),
     category: values(item.category).map(valueText),
+    body: valueText(item.encoded ?? item.description ?? item.content),
+    language: valueText(item.language ?? item['@_lang'] ?? xml.rss?.channel?.language ?? xml.feed?.['@_lang']),
   }));
 }
 
 async function fetchSource(source, checkedAt) {
-  const endpoints = [source.sourceType === 'wordpress_rest' ? source.apiUrl : source.feedUrl, source.fallbackUrl].filter(Boolean);
+  const endpoints = [source.apiUrl ?? source.feedUrl, source.fallbackUrl].filter(Boolean);
   if (!endpoints.length) throw new Error('No publication feed URL');
   let lastError;
   for (const endpoint of endpoints) {

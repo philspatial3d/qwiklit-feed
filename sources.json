@@ -838,5 +838,310 @@
       "review",
       "literary_news"
     ]
+  },
+  {
+    "id": "colorado-review",
+    "name": "Colorado Review",
+    "homepageUrl": "https://coloradoreview.colostate.edu/",
+    "canonicalDomain": "coloradoreview.colostate.edu",
+    "sourceType": "rss",
+    "feedUrl": "https://coloradoreview.colostate.edu/feed/?post_type=features",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ],
+    "defaultLanguage": "en",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "omitFeedAuthor": true
+    }
+  },
+  {
+    "id": "swamp-pink",
+    "name": "swamp pink",
+    "homepageUrl": "https://swamp-pink.charleston.edu/",
+    "canonicalDomain": "swamp-pink.charleston.edu",
+    "sourceType": "custom_api",
+    "apiUrl": "https://swamp-pink.charleston.edu/wp-json/wp/v2/featured?per_page=8",
+    "contentTypes": [
+      "poetry",
+      "fiction",
+      "essay"
+    ],
+    "defaultLanguage": "en",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "omitFeedAuthor": true
+    }
+  },
+  {
+    "id": "the-journal",
+    "name": "The Journal",
+    "homepageUrl": "https://thejournalmag.org/",
+    "canonicalDomain": "thejournalmag.org",
+    "sourceType": "rss",
+    "feedUrl": "https://thejournalmag.org/feed/",
+    "contentTypes": [
+      "poetry",
+      "fiction",
+      "essay"
+    ],
+    "defaultLanguage": "en",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "omitFeedAuthor": true
+    }
+  },
+  {
+    "id": "qu-literary-magazine",
+    "name": "Qu Literary Magazine",
+    "homepageUrl": "https://qulitmag.com/",
+    "canonicalDomain": "qulitmag.com",
+    "sourceType": "rss",
+    "feedUrl": "https://qulitmag.com/feed/",
+    "contentTypes": [
+      "poetry",
+      "fiction",
+      "essay"
+    ],
+    "defaultLanguage": "en",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "omitFeedAuthor": true,
+      "includeCategories": [
+        "Poetry",
+        "Fiction",
+        "Non-Fiction",
+        "Nonfiction"
+      ]
+    }
+  },
+  {
+    "id": "river-teeth",
+    "name": "River Teeth · Beautiful Things",
+    "homepageUrl": "https://riverteethjournal.com/",
+    "canonicalDomain": "riverteethjournal.com",
+    "sourceType": "rss",
+    "feedUrl": "https://riverteethjournal.com/feed/?post_type=beautiful-things",
+    "contentTypes": [
+      "essay"
+    ],
+    "defaultLanguage": "en",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "omitFeedAuthor": true,
+      "authorFromBody": "^By\\s+(.+?)\\s+(?=My\\s|I\\s|We\\s|At\\s|The\\s|When\\s|In\\s|On\\s|Each\\s|Everyone\\s|It\\s|She\\s|He\\s|As\\s|For\\s|After\\s|Our\\s)"
+    }
+  },
+  {
+    "id": "mud-season-review",
+    "name": "Mud Season Review",
+    "homepageUrl": "https://mudseasonreview.com/",
+    "canonicalDomain": "mudseasonreview.com",
+    "sourceType": "rss",
+    "feedUrl": "https://mudseasonreview.com/category/fiction/feed/",
+    "contentTypes": [
+      "fiction"
+    ],
+    "defaultLanguage": "en",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "titleFromBody": "<h3\\b[^>]*>([\\s\\S]*?)</h3>"
+    }
+  },
+  {
+    "id": "terrain-org",
+    "name": "Terrain.org",
+    "homepageUrl": "https://www.terrain.org/",
+    "canonicalDomain": "terrain.org",
+    "sourceType": "rss",
+    "feedUrl": "https://www.terrain.org/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ],
+    "defaultLanguage": "en",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "omitFeedAuthor": true,
+      "authorFromTitle": "\\b[Pp]oems? by (.+)$",
+      "includeCategories": [
+        "Fiction",
+        "Poetry",
+        "Nonfiction",
+        "Currents"
+      ]
+    }
+  },
+  {
+    "id": "consequence-forum",
+    "name": "Consequence Forum",
+    "homepageUrl": "https://consequenceforum.org/",
+    "canonicalDomain": "consequenceforum.org",
+    "sourceType": "rss",
+    "feedUrl": "https://consequenceforum.org/feed/",
+    "contentTypes": [
+      "poetry",
+      "fiction",
+      "essay"
+    ],
+    "defaultLanguage": "en",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "includeCategories": [
+        "Fiction",
+        "Poetry",
+        "Nonfiction",
+        "Non-fiction",
+        "Translation",
+        "Translations"
+      ]
+    }
+  },
+  {
+    "id": "isele-magazine",
+    "name": "Isele Magazine",
+    "homepageUrl": "https://iselemagazine.com/",
+    "canonicalDomain": "iselemagazine.com",
+    "sourceType": "rss",
+    "feedUrl": "https://iselemagazine.com/feed/",
+    "contentTypes": [
+      "fiction",
+      "poetry",
+      "essay"
+    ],
+    "defaultLanguage": "en",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "omitFeedAuthor": true,
+      "authorFromTitle": "^[^|]+\\|\\s*(.+)$",
+      "titleFromTitle": "^([^|]+)\\|"
+    }
+  },
+  {
+    "id": "brittle-paper",
+    "name": "Brittle Paper",
+    "homepageUrl": "https://brittlepaper.com/",
+    "canonicalDomain": "brittlepaper.com",
+    "sourceType": "rss",
+    "feedUrl": "https://brittlepaper.com/feed/",
+    "contentTypes": [
+      "poetry",
+      "fiction",
+      "essay"
+    ],
+    "defaultLanguage": "en",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "omitFeedAuthor": true,
+      "includeCategories": [
+        "Stories and Poems"
+      ],
+      "authorFromTitle": "^[^|]+\\|\\s*([^|]+)\\|",
+      "titleFromTitle": "^([^|]+)\\|"
+    }
+  },
+  {
+    "id": "circulo-de-poesia",
+    "name": "Círculo de Poesía",
+    "homepageUrl": "https://circulodepoesia.com/",
+    "canonicalDomain": "circulodepoesia.com",
+    "sourceType": "rss",
+    "feedUrl": "https://circulodepoesia.com/feed/",
+    "contentTypes": [
+      "poetry",
+      "essay",
+      "interview"
+    ],
+    "defaultLanguage": "es",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "omitFeedAuthor": true,
+      "excludeCategories": [
+        "Novedades Editoriales"
+      ],
+      "authorFromTitle": "^Poesía[^:]*:\\s*(.+)$"
+    }
+  },
+  {
+    "id": "revista-acrobata",
+    "name": "Revista Acrobata",
+    "homepageUrl": "https://revistaacrobata.com.br/",
+    "canonicalDomain": "revistaacrobata.com.br",
+    "sourceType": "rss",
+    "feedUrl": "https://revistaacrobata.com.br/category/poesia/feed/",
+    "contentTypes": [
+      "poetry"
+    ],
+    "defaultLanguage": "pt",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "omitFeedAuthor": true,
+      "authorFromTitle": "\\bPoemas\\s+(?:de\\s+)?(.+)$"
+    }
+  },
+  {
+    "id": "mascara-literary-review",
+    "name": "Mascara Literary Review",
+    "homepageUrl": "https://www.mascarareview.com/",
+    "canonicalDomain": "mascarareview.com",
+    "sourceType": "rss",
+    "feedUrl": "https://www.mascarareview.com/feed/",
+    "contentTypes": [
+      "poetry",
+      "fiction",
+      "essay"
+    ],
+    "defaultLanguage": "en",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "omitFeedAuthor": true,
+      "includeCategories": [
+        "Poetry",
+        "Fiction",
+        "Creative Non-fiction"
+      ],
+      "authorFromTitle": "^(.+)$"
+    }
+  },
+  {
+    "id": "cordite-poetry-review",
+    "name": "Cordite Poetry Review",
+    "homepageUrl": "https://cordite.org.au/",
+    "canonicalDomain": "cordite.org.au",
+    "sourceType": "rss",
+    "feedUrl": "https://cordite.org.au/feed/",
+    "contentTypes": [
+      "poetry",
+      "essay",
+      "review",
+      "interview"
+    ],
+    "defaultLanguage": "en",
+    "feedMetadata": {
+      "originalWritingOnly": true
+    }
+  },
+  {
+    "id": "another-chicago-magazine",
+    "name": "Another Chicago Magazine",
+    "homepageUrl": "https://anotherchicagomagazine.net/",
+    "canonicalDomain": "anotherchicagomagazine.net",
+    "sourceType": "rss",
+    "feedUrl": "https://anotherchicagomagazine.net/feed/",
+    "contentTypes": [
+      "poetry",
+      "fiction",
+      "essay",
+      "review"
+    ],
+    "defaultLanguage": "en",
+    "feedMetadata": {
+      "originalWritingOnly": true,
+      "omitFeedAuthor": true,
+      "authorFromTitle": "\\bby (.+?)(?:, translated.*)?$"
+    }
   }
 ]

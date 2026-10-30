@@ -12,6 +12,8 @@ For each new weekly edition, review the current `today.json`, reject non-literar
 
 ## Automatic updates
 
+The roster now contains 77 source feeds. The October 30 expansion adds fifteen university, community-led, and international publications, including Spanish and Portuguese poetry. `publication-metadata.mjs` provides shared genre, language, canonical-link, and publisher-specific title/byline rules for the public feed and service ingestion. New-source filters prefer original literary works over submission notices and contributor directories. When a feed supplies a CMS account instead of a creative byline, that account is omitted. Run `npm test` before publishing parser changes.
+
 GitHub Actions runs `refresh.mjs` every six hours and deploys `site/` to GitHub Pages. A publisher failure retains its last available links and is recorded in `sourceStatus`; a run where fewer than 80% of the publishers respond leaves the prior edition online. The workflow also saves each new edition in the repository, so its history is reviewable.
 
 The feed is periodically refreshed, rather than an instantaneous stream. Publisher sites control what their RSS or public API makes available and may block automated requests. The JSON reports the number of successful sources and lists the failures.

@@ -26,7 +26,7 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run refresh
-      - run: node --test tests/historical.test.mjs
+      - run: npm test
       - run: node refresh-historical.mjs
       - run: node archive-editors-choice.mjs
       - name: Save the published edition
