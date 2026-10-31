@@ -1,386 +1,390 @@
 {
-  "checkedAt": "2026-10-31T05:52:45.386Z",
+  "checkedAt": "2026-10-31T12:42:30.968Z",
   "checks": [
-    {
-      "id": "historical-anton-chekhov-misery",
-      "sourceId": "historical-standard-ebooks",
-      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/misery",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
-    },
     {
       "id": "historical-anton-chekhov-the-student",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-student",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true
+    },
+    {
+      "id": "historical-anton-chekhov-misery",
+      "sourceId": "historical-standard-ebooks",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/misery",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-anton-chekhov-the-darling",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-darling",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-anton-chekhov-the-lady-with-the-dog",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-lady-with-the-dog",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
-    },
-    {
-      "id": "historical-anton-chekhov-the-bet",
-      "sourceId": "historical-standard-ebooks",
-      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-bet",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-anton-chekhov-vanka",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/vanka",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-anton-chekhov-sleepy",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/sleepy",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true
+    },
+    {
+      "id": "historical-anton-chekhov-the-bet",
+      "sourceId": "historical-standard-ebooks",
+      "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-bet",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-anton-chekhov-the-kiss",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett/text/the-kiss",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-james-joyce-araby",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/araby",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-james-joyce-eveline",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/eveline",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-james-joyce-a-little-cloud",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/a-little-cloud",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-james-joyce-the-dead",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/james-joyce/dubliners/text/the-dead",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
-    },
-    {
-      "id": "historical-kurt-vonnegut-2-b-r-0-2-b",
-      "sourceId": "historical-wikisource",
-      "url": "https://en.wikisource.org/wiki/2_B_R_0_2_B",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-w-e-b-du-bois-the-comet",
       "sourceId": "historical-wikisource",
       "url": "https://en.wikisource.org/wiki/Darkwater/Chapter_10",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
-    },
-    {
-      "id": "historical-charlotte-perkins-gilman-the-yellow-wall-paper",
-      "sourceId": "historical-wikisource",
-      "url": "https://en.wikisource.org/wiki/The_Yellow_Wall-Paper",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-kurt-vonnegut-the-big-trip-up-yonder",
       "sourceId": "historical-wikisource",
       "url": "https://en.wikisource.org/wiki/The_Big_Trip_Up_Yonder",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
-    },
-    {
-      "id": "historical-saki-the-open-window",
-      "sourceId": "historical-wikisource",
-      "url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Open_Window",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-rabindranath-tagore-the-cabuliwallah",
       "sourceId": "historical-wikisource",
       "url": "https://en.wikisource.org/wiki/The_Hungry_Stones_and_Other_Stories/The_Cabuliwallah",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true
+    },
+    {
+      "id": "historical-charlotte-perkins-gilman-the-yellow-wall-paper",
+      "sourceId": "historical-wikisource",
+      "url": "https://en.wikisource.org/wiki/The_Yellow_Wall-Paper",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-f-scott-fitzgerald-the-curious-case-of-benjamin-button",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction/text/the-curious-case-of-benjamin-button",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-f-scott-fitzgerald-winter-dreams",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction/text/winter-dreams",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-f-scott-fitzgerald-the-diamond-as-big-as-the-ritz",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction/text/the-diamond-as-big-as-the-ritz",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-f-scott-fitzgerald-the-offshore-pirate",
       "sourceId": "historical-standard-ebooks",
       "url": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction/text/the-offshore-pirate",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
-      "id": "historical-o-henry-the-gift-of-the-magi",
-      "sourceId": "historical-lit2go",
-      "url": "https://etc.usf.edu/lit2go/131/the-four-million/2387/the-gift-of-the-magi/",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "id": "historical-saki-the-open-window",
+      "sourceId": "historical-wikisource",
+      "url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Open_Window",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true
+    },
+    {
+      "id": "historical-kurt-vonnegut-2-b-r-0-2-b",
+      "sourceId": "historical-wikisource",
+      "url": "https://en.wikisource.org/wiki/2_B_R_0_2_B",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-o-henry-the-cop-and-the-anthem",
       "sourceId": "historical-lit2go",
       "url": "https://etc.usf.edu/lit2go/131/the-four-million/2401/the-cop-and-the-anthem/",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
-      "id": "historical-o-henry-springtime-la-carte",
+      "id": "historical-o-henry-the-gift-of-the-magi",
       "sourceId": "historical-lit2go",
-      "url": "https://etc.usf.edu/lit2go/131/the-four-million/2406/springtime-a-la-carte/",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "url": "https://etc.usf.edu/lit2go/131/the-four-million/2387/the-gift-of-the-magi/",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-o-henry-the-furnished-room",
       "sourceId": "historical-lit2go",
       "url": "https://etc.usf.edu/lit2go/131/the-four-million/2416/the-furnished-room/",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
-      "id": "historical-f-scott-fitzgerald-bernice-bobs-her-hair",
-      "sourceId": "historical-library-of-america",
-      "url": "https://storyoftheweek.loa.org/2013/05/bernice-bobs-her-hair.html",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "id": "historical-o-henry-springtime-la-carte",
+      "sourceId": "historical-lit2go",
+      "url": "https://etc.usf.edu/lit2go/131/the-four-million/2406/springtime-a-la-carte/",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-f-scott-fitzgerald-the-cut-glass-bowl",
       "sourceId": "historical-library-of-america",
       "url": "https://storyoftheweek.loa.org/2009/12/cut-glass-bowl.html",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-edgar-allan-poe-the-tell-tale-heart",
       "sourceId": "historical-poe-society",
       "url": "https://www.eapoe.org/works/reading/pt043r1.htm",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-edgar-allan-poe-the-black-cat",
       "sourceId": "historical-poe-society",
       "url": "https://www.eapoe.org/works/reading/pt044r1.htm",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-edgar-allan-poe-the-cask-of-amontillado",
       "sourceId": "historical-poe-society",
       "url": "https://www.eapoe.org/works/reading/pt063r1.htm",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
-      "id": "historical-edgar-allan-poe-the-pit-and-the-pendulum",
-      "sourceId": "historical-poe-society",
-      "url": "https://www.eapoe.org/works/tales/pitpdmc.htm",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "id": "historical-f-scott-fitzgerald-bernice-bobs-her-hair",
+      "sourceId": "historical-library-of-america",
+      "url": "https://storyoftheweek.loa.org/2013/05/bernice-bobs-her-hair.html",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-edgar-allan-poe-the-fall-of-the-house-of-usher",
       "sourceId": "historical-poe-society",
       "url": "https://www.eapoe.org/works/reading/pt025r1.htm",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
-      "id": "historical-george-eliot-brother-jacob",
-      "sourceId": "historical-george-eliot",
-      "url": "https://georgeeliotarchive.org/items/show/592",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": false,
-      "error": "fetch failed",
-      "retained": true
+      "id": "historical-edgar-allan-poe-the-pit-and-the-pendulum",
+      "sourceId": "historical-poe-society",
+      "url": "https://www.eapoe.org/works/tales/pitpdmc.htm",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true
     },
     {
       "id": "historical-george-eliot-the-lifted-veil",
       "sourceId": "historical-george-eliot",
       "url": "https://georgeeliotarchive.org/items/show/593",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": false,
-      "error": "fetch failed",
+      "error": "The operation was aborted due to timeout",
       "retained": true
     },
     {
-      "id": "historical-kate-chopin-d-sir-e-s-baby",
-      "sourceId": "historical-kate-chopin",
-      "url": "https://www.katechopin.org/desirees-baby-text/",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
-    },
-    {
-      "id": "historical-kate-chopin-the-story-of-an-hour",
-      "sourceId": "historical-kate-chopin",
-      "url": "https://www.katechopin.org/story-hour/",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
+      "id": "historical-george-eliot-brother-jacob",
+      "sourceId": "historical-george-eliot",
+      "url": "https://georgeeliotarchive.org/items/show/592",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": false,
+      "error": "The operation was aborted due to timeout",
+      "retained": true
     },
     {
       "id": "historical-george-eliot-janet-s-repentance",
       "sourceId": "historical-george-eliot",
       "url": "https://georgeeliotarchive.org/items/show/286",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": false,
+      "error": "The operation was aborted due to timeout",
+      "retained": true
     },
     {
       "id": "historical-george-eliot-mr-gilfil-s-love-story",
       "sourceId": "historical-george-eliot",
       "url": "https://georgeeliotarchive.org/items/show/285",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": false,
+      "error": "The operation was aborted due to timeout",
+      "retained": true
+    },
+    {
+      "id": "historical-kate-chopin-the-story-of-an-hour",
+      "sourceId": "historical-kate-chopin",
+      "url": "https://www.katechopin.org/story-hour/",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true
+    },
+    {
+      "id": "historical-kate-chopin-d-sir-e-s-baby",
+      "sourceId": "historical-kate-chopin",
+      "url": "https://www.katechopin.org/desirees-baby-text/",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-kate-chopin-a-pair-of-silk-stockings",
       "sourceId": "historical-kate-chopin",
       "url": "https://www.katechopin.org/pdfs/Kate%20Chopin%2c%20A%20Pair%20of%20Silk%20Stockings.pdf",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
-    },
-    {
-      "id": "historical-richard-f-walker-one-small-fix-for-mankind",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/OneSmal1414.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-saki-the-penance",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/Pena.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-john-polidori-the-vampyre",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/Vamp.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true
+    },
+    {
+      "id": "historical-richard-f-walker-one-small-fix-for-mankind",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/OneSmal1414.shtml",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-peter-watts-the-island",
       "sourceId": "historical-peter-watts",
       "url": "https://www.rifters.com/real/shorts/PeterWatts_TheIsland.pdf",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-peter-watts-malak",
       "sourceId": "historical-peter-watts",
       "url": "https://www.rifters.com/real/shorts/PeterWatts_Malak.pdf",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-pauline-moss-siren-call",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/SireCall1416.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-peter-watts-ambassador",
       "sourceId": "historical-peter-watts",
       "url": "https://www.rifters.com/real/shorts/PeterWatts_Ambassador.pdf",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-mark-twain-the-celebrated-jumping-frog-of-calaveras-county",
       "sourceId": "historical-uva-twain",
       "url": "https://twain.lib.virginia.edu/huckfinn/jumpfrog.html",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-mark-twain-a-true-story",
       "sourceId": "historical-uva-twain",
       "url": "https://twain.lib.virginia.edu/huckfinn/truest1.html",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-mark-twain-the-story-of-the-bad-little-boy",
       "sourceId": "historical-uva-twain",
       "url": "https://twain.lib.virginia.edu/tomsawye/mtbadboy.html",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-mark-twain-the-story-of-the-good-little-boy",
       "sourceId": "historical-uva-twain",
       "url": "https://twain.lib.virginia.edu/tomsawye/mtgoodboy.html",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-peter-watts-collateral",
       "sourceId": "historical-lightspeed",
       "url": "https://www.lightspeedmagazine.com/fiction/collateral/",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-ken-liu-mono-no-aware",
       "sourceId": "historical-lightspeed",
       "url": "https://www.lightspeedmagazine.com/fiction/mono-no-aware/",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-charles-w-chesnutt-the-goophered-grapevine",
       "sourceId": "historical-docsouth",
       "url": "https://docsouth.unc.edu/southlit/chesnuttconjure/conjure.html#conjure1",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": false,
       "error": "fetch failed",
       "retained": true
@@ -389,7 +393,7 @@
       "id": "historical-charles-w-chesnutt-po-sandy",
       "sourceId": "historical-docsouth",
       "url": "https://docsouth.unc.edu/southlit/chesnuttconjure/conjure.html#conjure36",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": false,
       "error": "fetch failed",
       "retained": true
@@ -398,7 +402,7 @@
       "id": "historical-charles-w-chesnutt-sis-becky-s-pickaninny",
       "sourceId": "historical-docsouth",
       "url": "https://docsouth.unc.edu/southlit/chesnuttconjure/conjure.html#conjure132",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": false,
       "error": "fetch failed",
       "retained": true
@@ -407,15 +411,7 @@
       "id": "historical-eotw-3ef9e1d3a95a6783",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/LookFor1398.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true,
-      "discovered": true
-    },
-    {
-      "id": "historical-eotw-570ae992ea84c085",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/TonyEric1407.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true,
       "discovered": true
     },
@@ -423,7 +419,15 @@
       "id": "historical-eotw-5d65a4d20345fc7f",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/JoyMoon1402.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true,
+      "discovered": true
+    },
+    {
+      "id": "historical-eotw-570ae992ea84c085",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/TonyEric1407.shtml",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true,
       "discovered": true
     },
@@ -431,7 +435,7 @@
       "id": "historical-eotw-1633114d7799bd72",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/CharShop1415.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true,
       "discovered": true
     },
@@ -439,7 +443,7 @@
       "id": "historical-eotw-099745e360d01e9d",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/MontMani1242.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true,
       "discovered": true
     },
@@ -447,31 +451,7 @@
       "id": "historical-eotw-d517002c87b0fe4f",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/Lookfor1392.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true,
-      "discovered": true
-    },
-    {
-      "id": "historical-eotw-3f636975feabf035",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/STICSTON1397.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true,
-      "discovered": true
-    },
-    {
-      "id": "historical-eotw-23457f76089cd8d9",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/NewCat.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true,
-      "discovered": true
-    },
-    {
-      "id": "historical-eotw-d8719c8faa19184b",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/BERT964.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true,
       "discovered": true
     },
@@ -479,7 +459,31 @@
       "id": "historical-eotw-ef423793b997f0ff",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/SomeCare719.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true,
+      "discovered": true
+    },
+    {
+      "id": "historical-eotw-3f636975feabf035",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/STICSTON1397.shtml",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true,
+      "discovered": true
+    },
+    {
+      "id": "historical-eotw-23457f76089cd8d9",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/NewCat.shtml",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true,
+      "discovered": true
+    },
+    {
+      "id": "historical-eotw-d8719c8faa19184b",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/BERT964.shtml",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true,
       "discovered": true
     },
@@ -487,99 +491,99 @@
       "id": "historical-eotw-e113c9eae1372289",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/NewReli904.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true,
       "discovered": true
-    },
-    {
-      "id": "historical-eotw-48cd2a59d075b311",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/DarkRoom1221.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
     },
     {
       "id": "historical-eotw-d28da7ba5238d5e2",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/SenaLife.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
-    },
-    {
-      "id": "historical-eotw-7a82e1a71624c827",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/UnknQuan.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
-    },
-    {
-      "id": "historical-eotw-dd62086becda62cf",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/WithWith1337.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
-    },
-    {
-      "id": "historical-eotw-0ca2cda7b7c2a9e1",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/DayResu.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-eotw-27cc416c97f547ca",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/FallNort.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true
+    },
+    {
+      "id": "historical-eotw-7a82e1a71624c827",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/UnknQuan.shtml",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-eotw-87ed3463376eb5c0",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/Aban832.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
-      "id": "historical-eotw-96d459bb2ffcf875",
+      "id": "historical-eotw-48cd2a59d075b311",
       "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/JugSyru.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/DarkRoom1221.shtml",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true
+    },
+    {
+      "id": "historical-eotw-dd62086becda62cf",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/WithWith1337.shtml",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true
+    },
+    {
+      "id": "historical-eotw-0ca2cda7b7c2a9e1",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/DayResu.shtml",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-eotw-7e51d6662ea95b22",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/TradPlac.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
-      "ok": true
-    },
-    {
-      "id": "historical-eotw-a51802c11d6f7c3b",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Neck.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-eotw-82efe4fd54131da5",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/MindPixi1092.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true
+    },
+    {
+      "id": "historical-eotw-96d459bb2ffcf875",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/JugSyru.shtml",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-eotw-02180731f8d89763",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/ThinWe.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
+      "ok": true
+    },
+    {
+      "id": "historical-eotw-a51802c11d6f7c3b",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Neck.shtml",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     },
     {
       "id": "historical-eotw-37344f502564841f",
       "sourceId": "historical-east-of-web",
       "url": "https://www.eastoftheweb.com/short-stories/UBooks/ThroAway.shtml",
-      "checkedAt": "2026-10-31T05:52:45.386Z",
+      "checkedAt": "2026-10-31T12:42:30.968Z",
       "ok": true
     }
   ]
