@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "refreshedAt": "2026-11-08T06:12:46.681Z",
+  "refreshedAt": "2026-11-08T13:34:05.756Z",
   "sources": [
     {
       "id": "historical-standard-ebooks",
@@ -112,7 +112,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -128,7 +128,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -144,7 +144,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -160,7 +160,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -176,7 +176,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -192,7 +192,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -208,7 +208,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -224,7 +224,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -240,7 +240,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
     },
@@ -256,7 +256,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
     },
@@ -272,7 +272,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
     },
@@ -288,7 +288,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
     },
@@ -305,7 +305,7 @@
         "science fiction",
         "satire"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -321,7 +321,7 @@
         "science fiction",
         "satire"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -337,7 +337,7 @@
         "gothic",
         "psychological"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -352,7 +352,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -367,7 +367,7 @@
       "genres": [
         "humor"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -381,7 +381,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -397,7 +397,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
     },
@@ -414,7 +414,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
     },
@@ -431,7 +431,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
     },
@@ -448,7 +448,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
     },
@@ -465,7 +465,7 @@
         "literary",
         "twist ending"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -481,7 +481,7 @@
         "literary",
         "twist ending"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -496,7 +496,7 @@
         "literary",
         "twist ending"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -511,7 +511,7 @@
         "literary",
         "twist ending"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -527,7 +527,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-11-07T13:13:32.613Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -559,7 +559,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -575,7 +575,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -591,7 +591,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -607,7 +607,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -623,7 +623,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -702,7 +702,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -717,7 +717,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -732,7 +732,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -746,7 +746,7 @@
       "genres": [
         "humor"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -761,7 +761,7 @@
       "genres": [
         "gothic"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -775,7 +775,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -789,7 +789,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -804,7 +804,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -818,7 +818,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -833,7 +833,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -896,7 +896,7 @@
         "humor",
         "American literature"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://twain.lib.virginia.edu/about/txtindex.html"
     },
@@ -913,7 +913,7 @@
         "humor",
         "American literature"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -929,7 +929,7 @@
         "humor",
         "American literature"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -945,7 +945,7 @@
         "humor",
         "American literature"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -960,7 +960,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -975,49 +975,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-d517002c87b0fe4f",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Lookfor1392.shtml",
-      "title": "Looking for the Grave of Luther Laughton",
-      "author": "Douglas Young",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-3f636975feabf035",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/STICSTON1397.shtml",
-      "title": "STICKS AND STONES",
-      "author": "Bill McGee",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-3ef9e1d3a95a6783",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/LookFor1398.shtml",
-      "title": "Looking For Bigfoot",
-      "author": "Douglas Young",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1031,7 +989,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1045,7 +1003,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1059,7 +1017,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1073,217 +1031,77 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
-      "id": "historical-eotw-ccc39583e40a2dc2",
+      "id": "historical-eotw-d517002c87b0fe4f",
       "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/TwenSix.shtml",
-      "title": "Twenty-six Men and a Girl",
-      "author": "Maxim Gorky",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Lookfor1392.shtml",
+      "title": "Looking for the Grave of Luther Laughton",
+      "author": "Douglas Young",
       "form": "short_story",
       "era": "rediscovery",
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
-      "id": "historical-eotw-83c33dbceba10a7d",
+      "id": "historical-eotw-3f636975feabf035",
       "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/LancNigh1198.shtml",
-      "title": "Lancastrian Nights",
-      "author": "David A. Middleton",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/STICSTON1397.shtml",
+      "title": "STICKS AND STONES",
+      "author": "Bill McGee",
       "form": "short_story",
       "era": "rediscovery",
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
-      "id": "historical-eotw-cac04c41a01c2655",
+      "id": "historical-eotw-3ef9e1d3a95a6783",
       "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/OldTim.shtml",
-      "title": "Old Timer",
-      "author": "Mike Krath",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/LookFor1398.shtml",
+      "title": "Looking For Bigfoot",
+      "author": "Douglas Young",
       "form": "short_story",
       "era": "rediscovery",
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
-      "id": "historical-eotw-857b4a578dfe262b",
+      "id": "historical-eotw-f3271634fa1b78d3",
       "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/MusiMone1195.shtml",
-      "title": "Music, Money, And Fernando Borelli",
-      "author": "Richard Rix",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Scar880.shtml",
+      "title": "Scarecrow",
+      "author": "Luke Thompson",
       "form": "short_story",
       "era": "rediscovery",
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
-      "id": "historical-eotw-4f02f4dd4957e9ec",
+      "id": "historical-eotw-b02e38ff9bb6a99b",
       "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/NamiDay1035.shtml",
-      "title": "Naming Day",
-      "author": "Vicki Doronina",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Crac.shtml",
+      "title": "The Crack",
+      "author": "Charles Lambert",
       "form": "short_story",
       "era": "rediscovery",
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-c0dab078a9c35fbb",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/OperSgt.1126.shtml",
-      "title": "Operation Sgt. Pepper",
-      "author": "Peter Schooff",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-c3e9a0371619f06c",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/SitSun727.shtml",
-      "title": "To Sit in the Sun",
-      "author": "Joanna Leyland",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-c632ea5b3059da3b",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/CricWar.shtml",
-      "title": "The Cricket War",
-      "author": "Bob Thurber",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-fd6c4825930e37db",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/AutuFlow1024.shtml",
-      "title": "Autumn Flowers, And The Spring",
-      "author": "Jamie Brindle",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-4502b62c1ef032cf",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Card1013.shtml",
-      "title": "The Cards",
-      "author": "Louisa Campbell",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-ad321c1259c70288",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/AutuStar1031.shtml",
-      "title": "Autumn Starlings",
-      "author": "Andrea Smith",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-c1958d89a7ce71e4",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Thug.shtml",
-      "title": "Thug",
-      "author": "Ian Phillips",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-aa98b2cfa4b5cb14",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/BettMan728.shtml",
-      "title": "A Betting Man",
-      "author": "Wayne Harper",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-8b7fb6ffacd1eecc",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/PriPum.shtml",
-      "title": "The Princess and the Puma",
-      "author": "O. Henry",
-      "form": "short_story",
-      "era": "classic",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-661188ab00731a04",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/ShoeFits1230.shtml",
-      "title": "If The Shoe Fits",
-      "author": "Paul Hoffman",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1297,7 +1115,245 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-f434e3683ffa3c44",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/HabeCorp1131.shtml",
+      "title": "Habeas Corpses",
+      "author": "Peter Schooff",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-137f75975eca688e",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/MadeFifi.shtml",
+      "title": "Mademoiselle Fifi",
+      "author": "Guy de Maupassant",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-ccc39583e40a2dc2",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/TwenSix.shtml",
+      "title": "Twenty-six Men and a Girl",
+      "author": "Maxim Gorky",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-83c33dbceba10a7d",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/LancNigh1198.shtml",
+      "title": "Lancastrian Nights",
+      "author": "David A. Middleton",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-cac04c41a01c2655",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/OldTim.shtml",
+      "title": "Old Timer",
+      "author": "Mike Krath",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-857b4a578dfe262b",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/MusiMone1195.shtml",
+      "title": "Music, Money, And Fernando Borelli",
+      "author": "Richard Rix",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-4f02f4dd4957e9ec",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/NamiDay1035.shtml",
+      "title": "Naming Day",
+      "author": "Vicki Doronina",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-c0dab078a9c35fbb",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/OperSgt.1126.shtml",
+      "title": "Operation Sgt. Pepper",
+      "author": "Peter Schooff",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-c3e9a0371619f06c",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/SitSun727.shtml",
+      "title": "To Sit in the Sun",
+      "author": "Joanna Leyland",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-c632ea5b3059da3b",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/CricWar.shtml",
+      "title": "The Cricket War",
+      "author": "Bob Thurber",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-fd6c4825930e37db",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/AutuFlow1024.shtml",
+      "title": "Autumn Flowers, And The Spring",
+      "author": "Jamie Brindle",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-4502b62c1ef032cf",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Card1013.shtml",
+      "title": "The Cards",
+      "author": "Louisa Campbell",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-ad321c1259c70288",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/AutuStar1031.shtml",
+      "title": "Autumn Starlings",
+      "author": "Andrea Smith",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-c1958d89a7ce71e4",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Thug.shtml",
+      "title": "Thug",
+      "author": "Ian Phillips",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-aa98b2cfa4b5cb14",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/BettMan728.shtml",
+      "title": "A Betting Man",
+      "author": "Wayne Harper",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-8b7fb6ffacd1eecc",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/PriPum.shtml",
+      "title": "The Princess and the Puma",
+      "author": "O. Henry",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-661188ab00731a04",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/ShoeFits1230.shtml",
+      "title": "If The Shoe Fits",
+      "author": "Paul Hoffman",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1311,7 +1367,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1325,7 +1381,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1339,7 +1395,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1353,7 +1409,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1367,7 +1423,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1381,7 +1437,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1395,7 +1451,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1409,7 +1465,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1423,7 +1479,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1437,7 +1493,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1451,7 +1507,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1465,7 +1521,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1479,7 +1535,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1493,7 +1549,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1507,7 +1563,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1521,7 +1577,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1535,7 +1591,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1549,7 +1605,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1563,7 +1619,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1577,7 +1633,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1591,136 +1647,80 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-626a38fb35f9a9b1",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/AnciBuri851.shtml",
-      "title": "The Ancient Burial Grounds of Tonopah",
-      "author": "Dan Morgan",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-de3e48910ed25ae8",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/HaunHuss1153.shtml",
-      "title": "The Haunting of Husselbee",
-      "author": "Richard Lakin",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-1aff45044b745efa",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Inst1149.shtml",
-      "title": "Instruments",
-      "author": "Fred Melden",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-b49f3a22912a9b39",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/KnocOut906.shtml",
-      "title": "Knock Out",
-      "author": "Dante ZÃºÃ±iga-West",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-08T06:12:46.681Z",
+      "verifiedAt": "2026-11-08T13:34:05.756Z",
       "rightsMode": "metadata_only"
     }
   ],
   "sourceStatus": [
     {
       "sourceId": "historical-standard-ebooks",
-      "checkedAt": "2026-11-08T06:12:46.681Z",
+      "checkedAt": "2026-11-08T13:34:05.756Z",
       "successful": 16,
       "failed": 0
     },
     {
       "sourceId": "historical-wikisource",
-      "checkedAt": "2026-11-08T06:12:46.681Z",
+      "checkedAt": "2026-11-08T13:34:05.756Z",
       "successful": 6,
       "failed": 0
     },
     {
       "sourceId": "historical-lit2go",
-      "checkedAt": "2026-11-08T06:12:46.681Z",
+      "checkedAt": "2026-11-08T13:34:05.756Z",
       "successful": 4,
       "failed": 0
     },
     {
       "sourceId": "historical-library-of-america",
-      "checkedAt": "2026-11-08T06:12:46.681Z",
-      "successful": 0,
-      "failed": 2
+      "checkedAt": "2026-11-08T13:34:05.756Z",
+      "successful": 1,
+      "failed": 1
     },
     {
       "sourceId": "historical-poe-society",
-      "checkedAt": "2026-11-08T06:12:46.681Z",
+      "checkedAt": "2026-11-08T13:34:05.756Z",
       "successful": 5,
       "failed": 0
     },
     {
       "sourceId": "historical-george-eliot",
-      "checkedAt": "2026-11-08T06:12:46.681Z",
+      "checkedAt": "2026-11-08T13:34:05.756Z",
       "successful": 0,
       "failed": 4
     },
     {
       "sourceId": "historical-kate-chopin",
-      "checkedAt": "2026-11-08T06:12:46.681Z",
+      "checkedAt": "2026-11-08T13:34:05.756Z",
       "successful": 3,
       "failed": 0
     },
     {
       "sourceId": "historical-east-of-web",
-      "checkedAt": "2026-11-08T06:12:46.681Z",
+      "checkedAt": "2026-11-08T13:34:05.756Z",
       "successful": 52,
       "failed": 0
     },
     {
       "sourceId": "historical-peter-watts",
-      "checkedAt": "2026-11-08T06:12:46.681Z",
+      "checkedAt": "2026-11-08T13:34:05.756Z",
       "successful": 3,
       "failed": 0
     },
     {
       "sourceId": "historical-docsouth",
-      "checkedAt": "2026-11-08T06:12:46.681Z",
+      "checkedAt": "2026-11-08T13:34:05.756Z",
       "successful": 0,
       "failed": 3
     },
     {
       "sourceId": "historical-uva-twain",
-      "checkedAt": "2026-11-08T06:12:46.681Z",
+      "checkedAt": "2026-11-08T13:34:05.756Z",
       "successful": 4,
       "failed": 0
     },
     {
       "sourceId": "historical-lightspeed",
-      "checkedAt": "2026-11-08T06:12:46.681Z",
+      "checkedAt": "2026-11-08T13:34:05.756Z",
       "successful": 2,
       "failed": 0
     }
