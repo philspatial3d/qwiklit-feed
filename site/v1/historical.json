@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "refreshedAt": "2026-11-21T07:19:18.736Z",
+  "refreshedAt": "2026-11-21T19:24:12.751Z",
   "sources": [
     {
       "id": "historical-standard-ebooks",
@@ -112,7 +112,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -128,7 +128,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -144,7 +144,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -160,7 +160,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -176,7 +176,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -192,7 +192,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -208,7 +208,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -224,7 +224,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
     },
@@ -240,7 +240,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
     },
@@ -256,7 +256,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
     },
@@ -272,7 +272,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
     },
@@ -288,7 +288,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners"
     },
@@ -305,7 +305,7 @@
         "science fiction",
         "satire"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -321,7 +321,7 @@
         "science fiction",
         "satire"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -337,7 +337,7 @@
         "gothic",
         "psychological"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -352,7 +352,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -367,7 +367,7 @@
       "genres": [
         "humor"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -381,7 +381,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -397,7 +397,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
     },
@@ -414,7 +414,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
     },
@@ -431,7 +431,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
     },
@@ -448,7 +448,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction"
     },
@@ -527,7 +527,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -543,7 +543,7 @@
         "literary",
         "Jazz Age"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -559,7 +559,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -575,7 +575,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -591,7 +591,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -607,7 +607,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -623,7 +623,7 @@
         "gothic",
         "horror"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -639,7 +639,7 @@
         "Victorian",
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -655,7 +655,7 @@
         "Victorian",
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -671,7 +671,7 @@
         "Victorian",
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -687,7 +687,7 @@
         "Victorian",
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -702,7 +702,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -717,7 +717,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -732,7 +732,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -746,7 +746,7 @@
       "genres": [
         "humor"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -761,7 +761,7 @@
       "genres": [
         "gothic"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -775,7 +775,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -789,7 +789,7 @@
       "genres": [
         "literary"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -896,7 +896,7 @@
         "humor",
         "American literature"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only",
       "attributionUrl": "https://twain.lib.virginia.edu/about/txtindex.html"
     },
@@ -913,7 +913,7 @@
         "humor",
         "American literature"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -929,7 +929,7 @@
         "humor",
         "American literature"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -945,7 +945,7 @@
         "humor",
         "American literature"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -960,7 +960,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -975,7 +975,7 @@
       "genres": [
         "science fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -989,7 +989,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1003,7 +1003,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1017,7 +1017,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1031,7 +1031,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1045,7 +1045,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1059,7 +1059,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1073,483 +1073,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-cadd5e56cfacc3b4",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/CompTorc.shtml",
-      "title": "Compass And Torch",
-      "author": "Elizabeth Baines",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-efe63be9f9f71864",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/RulGam.shtml",
-      "title": "Rules of the Game",
-      "author": "James Wood",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-184f495c5ca79a7a",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Lumi1000.shtml",
-      "title": "Luminosity",
-      "author": "Stephen Grant",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-fe2f3b54ffd119e3",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/CaliTale.shtml",
-      "title": "The Californian's Tale",
-      "author": "Mark Twain",
-      "form": "short_story",
-      "era": "classic",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-d28da7ba5238d5e2",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/SenaLife.shtml",
-      "title": "The Senator for Life Dreams on His Way Back Home",
-      "author": "Humberto Ramirez",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-596784e9957f8a06",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/CiviInfl.shtml",
-      "title": "A Civilising Influence",
-      "author": "Gaye Jee",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-59067ef834f1abe7",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Tomo988.shtml",
-      "title": "Tomorrows",
-      "author": "Anthony Perrotta",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-2fa1270e429a1813",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/WayPit.shtml",
-      "title": "The Way The Pit Works",
-      "author": "Gaye Jee",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-f4b642ae306ebe52",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/PsycPsky.shtml",
-      "title": "Psyche And The Pskyscraper",
-      "author": "O. Henry",
-      "form": "short_story",
-      "era": "classic",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-6668bcc1f18eca89",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/TwoExtr1268.shtml",
-      "title": "Two Extremes",
-      "author": "David Dumouriez",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-02b9b36baabb3bbc",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/TimeLost.shtml",
-      "title": "Time Lost",
-      "author": "John G. Gorman",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-fe7c317443b9aa4b",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/MeadStar1206.shtml",
-      "title": "Meadow of Stars",
-      "author": "Nick Davis",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-40eea37a2060b07b",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/BrokGlob890.shtml",
-      "title": "The Broken Globe",
-      "author": "Geoffrey Smagacz",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-0b00dbbd95b5c2de",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/HarrWorl.shtml",
-      "title": "Harry's World",
-      "author": "Steve Atkinson",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-df6ec16c5147e51c",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/GreaBell.shtml",
-      "title": "The Great Bell",
-      "author": "Crispin Oduobuk",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-2d2b9d64a4f04c1b",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/QuesAge875.shtml",
-      "title": "A Question of Age",
-      "author": "Fernando Sorrentino",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-08e7780aa7790444",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Gnom891.shtml",
-      "title": "The Gnome",
-      "author": "Marcus Bleecker",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-7c2a9c997f4cd9d3",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Grie.shtml",
-      "title": "Grief",
-      "author": "Anton Chekhov",
-      "form": "short_story",
-      "era": "classic",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-f96388c0e91f24a1",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/RealWrit1266.shtml",
-      "title": "Real Writer",
-      "author": "Jennifer Frost",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-5cb4432bbc20b88f",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Amer.shtml",
-      "title": "America",
-      "author": "Rob Mimpriss",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-885404035377718a",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/OrbiRoad755.shtml",
-      "title": "The Orbital Road",
-      "author": "AC Tillyer",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-86b84f64f69cf88d",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Suff1037.shtml",
-      "title": "Suffocating",
-      "author": "Mina Moss",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-1e1e9d93459e79b9",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/TooLate1011.shtml",
-      "title": "Too Late",
-      "author": "Sara Loitz",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-e1aac49cf060ebf4",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/StriBusi.shtml",
-      "title": "Strictly Business",
-      "author": "O. Henry",
-      "form": "short_story",
-      "era": "classic",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-209840ac7b86692d",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Voya.shtml",
-      "title": "The Voyage",
-      "author": "Katherine Mansfield",
-      "form": "short_story",
-      "era": "classic",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-d8710e52569c1a05",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/PiecStri.shtml",
-      "title": "A Piece of String",
-      "author": "Guy de Maupassant",
-      "form": "short_story",
-      "era": "classic",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-e760e6a35634fd0d",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Daythat1327.shtml",
-      "title": "The Day that I Died",
-      "author": "Shendl Pratt",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-84955846c528f826",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/SpriKard.shtml",
-      "title": "The Spring At Kardaki",
-      "author": "Gaye Jee",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-18b297ce12f4520f",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Gate846.shtml",
-      "title": "At the Gate",
-      "author": "Myla Jo Closser",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-7eb9d3f4f4608969",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/BecaMan.shtml",
-      "title": "How I Became A Man",
-      "author": "Charles Kaufmann",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-68ace589ec573588",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/DesMae.shtml",
-      "title": "A Descent into the Maelstrom",
-      "author": "Edgar Allan Poe",
-      "form": "short_story",
-      "era": "classic",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-5d8f01330a4ab839",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/MessBott1097.shtml",
-      "title": "Message in a Bottle",
-      "author": "Robert Hasker",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-87ed3463376eb5c0",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Aban832.shtml",
-      "title": "Abandoned",
-      "author": "Guy de Maupassant",
-      "form": "short_story",
-      "era": "classic",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-f52d2133554cd7bd",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/BriCom.shtml",
-      "title": "The Bride Comes to Yellow Sky",
-      "author": "Stephen Crane",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1563,7 +1087,525 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-87ed3463376eb5c0",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Aban832.shtml",
+      "title": "Abandoned",
+      "author": "Guy de Maupassant",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-98b553d3d584d571",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/UrgeLega1356.shtml",
+      "title": "An Urgent Legal Matter",
+      "author": "Douglas Young",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-20aefffea18d6aa1",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/WabaCann.shtml",
+      "title": "Wabash Cannonball",
+      "author": "Richard Brookes",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-471223550cf3036d",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/KeptMone.shtml",
+      "title": "The Man Who Kept His Money in a Box",
+      "author": "Anthony Trollope",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-cadd5e56cfacc3b4",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/CompTorc.shtml",
+      "title": "Compass And Torch",
+      "author": "Elizabeth Baines",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-efe63be9f9f71864",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/RulGam.shtml",
+      "title": "Rules of the Game",
+      "author": "James Wood",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-184f495c5ca79a7a",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Lumi1000.shtml",
+      "title": "Luminosity",
+      "author": "Stephen Grant",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-fe2f3b54ffd119e3",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/CaliTale.shtml",
+      "title": "The Californian's Tale",
+      "author": "Mark Twain",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-d28da7ba5238d5e2",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/SenaLife.shtml",
+      "title": "The Senator for Life Dreams on His Way Back Home",
+      "author": "Humberto Ramirez",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-596784e9957f8a06",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/CiviInfl.shtml",
+      "title": "A Civilising Influence",
+      "author": "Gaye Jee",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-59067ef834f1abe7",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Tomo988.shtml",
+      "title": "Tomorrows",
+      "author": "Anthony Perrotta",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-2fa1270e429a1813",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/WayPit.shtml",
+      "title": "The Way The Pit Works",
+      "author": "Gaye Jee",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-f4b642ae306ebe52",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/PsycPsky.shtml",
+      "title": "Psyche And The Pskyscraper",
+      "author": "O. Henry",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-6668bcc1f18eca89",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/TwoExtr1268.shtml",
+      "title": "Two Extremes",
+      "author": "David Dumouriez",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-02b9b36baabb3bbc",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/TimeLost.shtml",
+      "title": "Time Lost",
+      "author": "John G. Gorman",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-fe7c317443b9aa4b",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/MeadStar1206.shtml",
+      "title": "Meadow of Stars",
+      "author": "Nick Davis",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-40eea37a2060b07b",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/BrokGlob890.shtml",
+      "title": "The Broken Globe",
+      "author": "Geoffrey Smagacz",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-0b00dbbd95b5c2de",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/HarrWorl.shtml",
+      "title": "Harry's World",
+      "author": "Steve Atkinson",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-df6ec16c5147e51c",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/GreaBell.shtml",
+      "title": "The Great Bell",
+      "author": "Crispin Oduobuk",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-2d2b9d64a4f04c1b",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/QuesAge875.shtml",
+      "title": "A Question of Age",
+      "author": "Fernando Sorrentino",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-08e7780aa7790444",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Gnom891.shtml",
+      "title": "The Gnome",
+      "author": "Marcus Bleecker",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-7c2a9c997f4cd9d3",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Grie.shtml",
+      "title": "Grief",
+      "author": "Anton Chekhov",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-f96388c0e91f24a1",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/RealWrit1266.shtml",
+      "title": "Real Writer",
+      "author": "Jennifer Frost",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-5cb4432bbc20b88f",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Amer.shtml",
+      "title": "America",
+      "author": "Rob Mimpriss",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-885404035377718a",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/OrbiRoad755.shtml",
+      "title": "The Orbital Road",
+      "author": "AC Tillyer",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-86b84f64f69cf88d",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Suff1037.shtml",
+      "title": "Suffocating",
+      "author": "Mina Moss",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-1e1e9d93459e79b9",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/TooLate1011.shtml",
+      "title": "Too Late",
+      "author": "Sara Loitz",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-e1aac49cf060ebf4",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/StriBusi.shtml",
+      "title": "Strictly Business",
+      "author": "O. Henry",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-209840ac7b86692d",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Voya.shtml",
+      "title": "The Voyage",
+      "author": "Katherine Mansfield",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-d8710e52569c1a05",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/PiecStri.shtml",
+      "title": "A Piece of String",
+      "author": "Guy de Maupassant",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-e760e6a35634fd0d",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Daythat1327.shtml",
+      "title": "The Day that I Died",
+      "author": "Shendl Pratt",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-84955846c528f826",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/SpriKard.shtml",
+      "title": "The Spring At Kardaki",
+      "author": "Gaye Jee",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-18b297ce12f4520f",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Gate846.shtml",
+      "title": "At the Gate",
+      "author": "Myla Jo Closser",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-7eb9d3f4f4608969",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/BecaMan.shtml",
+      "title": "How I Became A Man",
+      "author": "Charles Kaufmann",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-68ace589ec573588",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/DesMae.shtml",
+      "title": "A Descent into the Maelstrom",
+      "author": "Edgar Allan Poe",
+      "form": "short_story",
+      "era": "classic",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-5d8f01330a4ab839",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/MessBott1097.shtml",
+      "title": "Message in a Bottle",
+      "author": "Robert Hasker",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
+      "rightsMode": "metadata_only"
+    },
+    {
+      "id": "historical-eotw-f52d2133554cd7bd",
+      "sourceId": "historical-east-of-web",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/BriCom.shtml",
+      "title": "The Bride Comes to Yellow Sky",
+      "author": "Stephen Crane",
+      "form": "short_story",
+      "era": "rediscovery",
+      "genres": [
+        "fiction"
+      ],
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1577,7 +1619,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1591,7 +1633,7 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     },
     {
@@ -1605,122 +1647,80 @@
       "genres": [
         "fiction"
       ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-34b330a53044c2e1",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/Blue.shtml",
-      "title": "Blue",
-      "author": "Wayne Harper",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-0a1d0c3e48ae414f",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/HaunVall.shtml",
-      "title": "The Haunted Valley",
-      "author": "Ambrose Bierce",
-      "form": "short_story",
-      "era": "classic",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
-      "rightsMode": "metadata_only"
-    },
-    {
-      "id": "historical-eotw-a5884ec3c4866b18",
-      "sourceId": "historical-east-of-web",
-      "url": "https://www.eastoftheweb.com/short-stories/UBooks/SecrShar.shtml",
-      "title": "The Secret Sharer",
-      "author": "Joseph Conrad",
-      "form": "short_story",
-      "era": "rediscovery",
-      "genres": [
-        "fiction"
-      ],
-      "verifiedAt": "2026-11-21T07:19:18.736Z",
+      "verifiedAt": "2026-11-21T19:24:12.751Z",
       "rightsMode": "metadata_only"
     }
   ],
   "sourceStatus": [
     {
       "sourceId": "historical-standard-ebooks",
-      "checkedAt": "2026-11-21T07:19:18.736Z",
+      "checkedAt": "2026-11-21T19:24:12.751Z",
       "successful": 16,
       "failed": 0
     },
     {
       "sourceId": "historical-wikisource",
-      "checkedAt": "2026-11-21T07:19:18.736Z",
+      "checkedAt": "2026-11-21T19:24:12.751Z",
       "successful": 6,
       "failed": 0
     },
     {
       "sourceId": "historical-lit2go",
-      "checkedAt": "2026-11-21T07:19:18.736Z",
+      "checkedAt": "2026-11-21T19:24:12.751Z",
       "successful": 0,
       "failed": 4
     },
     {
       "sourceId": "historical-library-of-america",
-      "checkedAt": "2026-11-21T07:19:18.736Z",
+      "checkedAt": "2026-11-21T19:24:12.751Z",
       "successful": 2,
       "failed": 0
     },
     {
       "sourceId": "historical-poe-society",
-      "checkedAt": "2026-11-21T07:19:18.736Z",
+      "checkedAt": "2026-11-21T19:24:12.751Z",
       "successful": 5,
       "failed": 0
     },
     {
       "sourceId": "historical-george-eliot",
-      "checkedAt": "2026-11-21T07:19:18.736Z",
+      "checkedAt": "2026-11-21T19:24:12.751Z",
       "successful": 4,
       "failed": 0
     },
     {
       "sourceId": "historical-kate-chopin",
-      "checkedAt": "2026-11-21T07:19:18.736Z",
+      "checkedAt": "2026-11-21T19:24:12.751Z",
       "successful": 3,
       "failed": 0
     },
     {
       "sourceId": "historical-east-of-web",
-      "checkedAt": "2026-11-21T07:19:18.736Z",
+      "checkedAt": "2026-11-21T19:24:12.751Z",
       "successful": 52,
       "failed": 0
     },
     {
       "sourceId": "historical-peter-watts",
-      "checkedAt": "2026-11-21T07:19:18.736Z",
+      "checkedAt": "2026-11-21T19:24:12.751Z",
       "successful": 0,
       "failed": 3
     },
     {
       "sourceId": "historical-docsouth",
-      "checkedAt": "2026-11-21T07:19:18.736Z",
+      "checkedAt": "2026-11-21T19:24:12.751Z",
       "successful": 0,
       "failed": 3
     },
     {
       "sourceId": "historical-uva-twain",
-      "checkedAt": "2026-11-21T07:19:18.736Z",
+      "checkedAt": "2026-11-21T19:24:12.751Z",
       "successful": 4,
       "failed": 0
     },
     {
       "sourceId": "historical-lightspeed",
-      "checkedAt": "2026-11-21T07:19:18.736Z",
+      "checkedAt": "2026-11-21T19:24:12.751Z",
       "successful": 2,
       "failed": 0
     }
